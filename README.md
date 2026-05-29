@@ -51,20 +51,31 @@ boston_mlops/
 ├── docker-compose.yml
 └── .env
 ```
-
 ---
 
-## Setup on a new machine (Windows)
+## First-Time Setup on a New Machine (Windows)
+
+Do these steps once only when setting up a new machine.
 
 ### Prerequisites
+
+Install these before anything else:
 
 - Python 3.10+ — https://www.python.org/downloads/
 - Git — https://git-scm.com/download/win
 - Docker Desktop — https://www.docker.com/products/docker-desktop
 
+Verify:
+
+```bash
+python --version
+git --version
+docker --version
+```
+
 ---
 
-### 1. Clone the repo
+### Step 1 — Clone the repo
 
 ```bash
 git clone https://github.com/leishaaa14/Boston-Housing-MLOps-Pipeline.git
@@ -73,7 +84,7 @@ cd Boston-Housing-MLOps-Pipeline
 
 ---
 
-### 2. Create virtual environment
+### Step 2 — Create virtual environment and install dependencies
 
 ```bash
 python -m venv venv_airflow
@@ -83,7 +94,7 @@ pip install -r requirements.txt
 
 ---
 
-### 3. Set up Airflow
+### Step 3 — Set up Airflow (one-time only)
 
 ```bash
 export AIRFLOW_HOME=$(pwd)/airflow
@@ -97,96 +108,139 @@ airflow users create \
     --email admin@example.com
 ```
 
-Update `dags_folder` in `airflow/airflow.cfg` to point to your `dags/` folder.
-
+Then open `airflow/airflow.cfg` and update this line:
+```
+dags_folder = /full/path/to/Boston-Housing-MLOps-Pipeline/dags
+```
 ---
 
-### 4. Set up DVC
+### Step 4 — Set up DVC (one-time only)
 
 ```bash
+dvc remote add -d localremote /path/to/your/dvc/cache
 dvc pull
 ```
 
-If the remote is not configured:
-
-```bash
-dvc remote add -d localremote /path/to/dvc/cache
-dvc pull
-```
+> Copy the DVC cache folder from your old machine via USB or external drive first, then point `localremote` to it.
 
 ---
 
-### 5. Start Prometheus + Grafana
+### Step 5 — Set up Grafana dashboard (one-time only)
 
-```bash
-docker-compose up -d
-```
+After starting Docker (see daily startup below):
 
-- Prometheus → http://localhost:9090
-- Grafana → http://localhost:3000 (admin / admin)
-
-Import dashboard: Grafana → Dashboards → Import → upload `monitoring/grafana/dashboards/boston_mlops.json`
-
----
-
-### 6. Start Airflow
-
-**Terminal 1 — web server:**
-
-```bash
-source venv_airflow/Scripts/activate
-export AIRFLOW_HOME=$(pwd)/airflow
-airflow webserver --port 8080
-```
-
-**Terminal 2 — scheduler:**
-
-```bash
-source venv_airflow/Scripts/activate
-export AIRFLOW_HOME=$(pwd)/airflow
-airflow scheduler
-```
-
-Airflow UI → http://localhost:8080 (admin / admin)
-
----
-
-### 7. Start the metrics exporter
-
-```bash
-source venv_airflow/Scripts/activate
-python monitoring/metrics_exporter.py
-```
+1. Go to http://localhost:3000
+2. Login with `admin` / `admin`
+3. Click **Dashboards → Import**
+4. Upload `monitoring/grafana/dashboards/boston_mlops.json`
 
 ---
 
 ## Daily Startup
 
+Open **5 separate terminals** and run one section per terminal, in this exact order:
+
+---
+
+### Terminal 1 — Docker (Prometheus + Grafana)
+
+Start this first so monitoring is ready before anything else runs.
+
 ```bash
-# Terminal 1 — metrics exporter
-source venv_airflow/Scripts/activate
-python monitoring/metrics_exporter.py
-
-# Terminal 2 — Airflow web server
-source venv_airflow/Scripts/activate
-export AIRFLOW_HOME=$(pwd)/airflow
-airflow webserver --port 8080
-
-# Terminal 3 — Airflow scheduler
-source venv_airflow/Scripts/activate
-export AIRFLOW_HOME=$(pwd)/airflow
-airflow scheduler
-
-# Docker
+cd Boston-Housing-MLOps-Pipeline
 docker-compose up -d
 ```
 
-| Service | URL |
-|---|---|
-| Airflow | http://localhost:8080 |
-| MLflow | http://localhost:5000 |
-| Grafana | http://localhost:3000 |
-| Prometheus | http://localhost:9090 |
+Verify containers are running:
+
+```bash
+docker ps
+```
+
+---
+
+### Terminal 2 — MLflow
+
+Start this before the pipeline runs so all experiments are tracked from the beginning.
+
+```bash
+cd Boston-Housing-MLOps-Pipeline
+source venv_airflow/Scripts/activate
+mlflow ui --backend-store-uri sqlite:///mlflow.db --port 5000
+```
+
+---
+
+### Terminal 3 — Metrics exporter
+
+Start this before Airflow so Prometheus has something to scrape when the pipeline runs.
+
+```bash
+cd Boston-Housing-MLOps-Pipeline
+source venv_airflow/Scripts/activate
+python monitoring/metrics_exporter.py
+```
+
+---
+
+### Terminal 4 — Airflow web server
+
+```bash
+cd Boston-Housing-MLOps-Pipeline
+source venv_airflow/Scripts/activate
+export AIRFLOW_HOME=$(pwd)/airflow
+airflow webserver --port 8080
+```
+
+---
+
+### Terminal 5 — Airflow scheduler
+
+```bash
+cd Boston-Housing-MLOps-Pipeline
+source venv_airflow/Scripts/activate
+export AIRFLOW_HOME=$(pwd)/airflow
+airflow scheduler
+```
+
+---
+
+### All services at a glance
+
+| Order | Service | Terminal command | URL |
+|---|---|---|---|
+| 1 | Docker (Prometheus + Grafana) | `docker-compose up -d` | — |
+| 2 | MLflow | `mlflow ui --backend-store-uri sqlite:///mlflow.db` | http://localhost:5000 |
+| 3 | Metrics exporter | `python monitoring/metrics_exporter.py` | — |
+| 4 | Airflow web server | `airflow webserver --port 8080` | http://localhost:8080 |
+| 5 | Airflow scheduler | `airflow scheduler` | — |
+
+---
+
+## Running the Pipeline
+
+**Option A — via Airflow UI (recommended):**
+
+1. Go to http://localhost:8080
+2. Login with `admin` / `admin`
+3. Find your DAG, toggle it ON
+4. Click the ▶ trigger button
+
+**Option B — via DVC directly:**
+
+```bash
+source venv_airflow/Scripts/activate
+dvc repro
+```
+
+**Option C — run each stage manually:**
+
+```bash
+source venv_airflow/Scripts/activate
+python src/preprocess.py
+python src/train.py
+python src/evaluate.py
+```
 
 ---
 
@@ -195,25 +249,28 @@ docker-compose up -d
 Raw data (DVC tracked)
 ↓
 Preprocess → Train (LR + RF) → Evaluate
-↓                           ↓
-MLflow logs metrics         metrics/ JSON
+↓                          ↓
+MLflow tracks                metrics/ JSON
+all experiments
 ↓
-Prometheus scrapes metrics_exporter.py
+metrics_exporter.py → Prometheus scrapes → Grafana displays
 ↓
-Grafana displays dashboard
+Airflow injects drift every 3 mins
 ↓
-Airflow injects drift every 3 mins → pipeline re-runs → drift visible in Grafana
+Pipeline re-runs → worse metrics → drift visible in Grafana
 ```
 ---
 
 ## Troubleshooting
 
-**DAG not found in Airflow** — check `dags_folder` in `airflow/airflow.cfg`
+**DAG not found in Airflow** — check `dags_folder` in `airflow/airflow.cfg` points to the correct absolute path of your `dags/` folder.
 
-**DVC pull fails** — copy the DVC cache folder from old machine, then `dvc remote add -d localremote <path>`
+**DVC pull fails** — make sure the cache folder from your old machine is accessible and `dvc remote add -d localremote <path>` points to it correctly.
 
-**Docker not starting** — make sure Docker Desktop is running before `docker-compose up -d`
+**Docker not starting** — open Docker Desktop manually and wait for it to fully load before running `docker-compose up -d`.
 
-**MLflow shows no runs** — run the pipeline at least once via `dvc repro` or Airflow
+**MLflow shows no runs** — MLflow must be started before the pipeline runs. If you started it after, re-run the pipeline via `dvc repro`.
 
-**venv activate fails** — try `. venv_airflow/Scripts/activate` instead of `source`
+**Metrics not showing in Grafana** — make sure `metrics_exporter.py` is running in its own terminal and Prometheus is scraping it. Check http://localhost:9090/targets to verify.
+
+**venv activate not working** — try `. venv_airflow/Scripts/activate` instead of `source venv_airflow/Scripts/activate`.
