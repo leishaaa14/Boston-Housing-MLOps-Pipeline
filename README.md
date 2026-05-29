@@ -84,15 +84,23 @@ cd Boston-Housing-MLOps-Pipeline
 
 ---
 
-### Step 2 — Create virtual environment and install dependencies
+### Step 2 — Create virtual environments and install dependencies
 
+**Airflow venv:**
 ```bash
 python -m venv venv_airflow
 source venv_airflow/Scripts/activate
 pip install -r requirements.txt
+deactivate
 ```
 
----
+**MLflow venv:**
+```bash
+python -m venv venv_mlflow
+source venv_mlflow/Scripts/activate
+pip install mlflow
+deactivate
+```
 
 ### Step 3 — Set up Airflow (one-time only)
 
@@ -161,15 +169,11 @@ docker ps
 
 ### Terminal 2 — MLflow
 
-Start this before the pipeline runs so all experiments are tracked from the beginning.
-
 ```bash
 cd Boston-Housing-MLOps-Pipeline
-source venv_airflow/Scripts/activate
+source venv_mlflow/Scripts/activate
 mlflow ui --backend-store-uri sqlite:///mlflow.db --port 5000
 ```
-
----
 
 ### Terminal 3 — Metrics exporter
 
