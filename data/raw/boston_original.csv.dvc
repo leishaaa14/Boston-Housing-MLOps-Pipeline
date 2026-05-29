@@ -1,0 +1,6 @@
+outs:
+- md5: bb8d217585daf9ba0171bae70e6e1b41
+  size: 36640
+  hash: md5
+  path: boston_original.csv
+  isexec: true

@@ -1,0 +1,856 @@
+2026-05-24 11:13:09 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 11:13:09 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 11:16:52 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 11:16:52 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 11:16:52 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-24 11:16:52 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-24 11:16:52 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-24 11:16:52 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-24 14:00:11 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 14:00:11 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 14:00:11 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-24 14:00:11 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.59767786210908,
+  "LSTAT_std": 17.727282778299422,
+  "RM_mean": 4.411587701281667,
+  "RM_std": 0.47693530634439657,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-24 14:00:11 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-24 14:00:11 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-24 14:09:52 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 14:09:53 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 14:09:53 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-24 14:09:53 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.567481015463848,
+  "LSTAT_std": 17.686455907531585,
+  "RM_mean": 4.397774686333121,
+  "RM_std": 0.48459526933424796,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-24 14:09:53 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-24 14:09:53 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-24 14:19:49 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 14:19:49 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 14:19:49 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-24 14:19:49 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.58769465797343,
+  "LSTAT_std": 17.691576900547656,
+  "RM_mean": 4.405071611343221,
+  "RM_std": 0.4767300365696508,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-24 14:19:49 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-24 14:19:49 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-24 14:28:27 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 14:28:27 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 14:28:27 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-24 14:28:27 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.58726776015933,
+  "LSTAT_std": 17.72225938250884,
+  "RM_mean": 4.396343046568471,
+  "RM_std": 0.49267415418769367,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-24 14:28:27 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-24 14:28:27 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-24 14:36:29 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 14:36:29 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 14:36:29 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-24 14:36:29 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.65041466407637,
+  "LSTAT_std": 17.667204801495757,
+  "RM_mean": 4.398973609012571,
+  "RM_std": 0.49119239112987967,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-24 14:36:29 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-24 14:36:29 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-24 14:44:50 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 14:44:50 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 14:44:50 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-24 14:44:50 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.603294727396058,
+  "LSTAT_std": 17.71535626340205,
+  "RM_mean": 4.402832531979484,
+  "RM_std": 0.48143935753016337,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-24 14:44:50 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-24 14:44:50 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-24 14:53:13 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 14:53:13 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 14:53:13 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-24 14:53:13 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.584849089001196,
+  "LSTAT_std": 17.702105177444285,
+  "RM_mean": 4.395439179893266,
+  "RM_std": 0.48368255140578675,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-24 14:53:13 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-24 14:53:13 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-24 15:01:16 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 15:01:16 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 15:01:16 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-24 15:01:16 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.590973439775897,
+  "LSTAT_std": 17.613997595963042,
+  "RM_mean": 4.4004510629489495,
+  "RM_std": 0.48276076146269375,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-24 15:01:16 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-24 15:01:16 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-24 15:09:33 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 15:09:33 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 15:09:33 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-24 15:09:33 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.628438121441956,
+  "LSTAT_std": 17.717554009603802,
+  "RM_mean": 4.394484226376144,
+  "RM_std": 0.48067586664425666,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-24 15:09:33 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-24 15:09:33 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-24 20:03:50 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-24 20:03:50 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-24 20:03:50 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-24 20:03:50 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.61262785959633,
+  "LSTAT_std": 17.698240726923743,
+  "RM_mean": 4.406688127147715,
+  "RM_std": 0.4882804713010042,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-24 20:03:50 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-24 20:03:50 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-25 20:03:59 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-25 20:03:59 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-25 20:04:01 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-25 20:04:01 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-25 20:04:01 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-25 20:04:02 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 09:38:15 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 09:38:15 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 09:38:15 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 09:38:15 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.60167040817601,
+  "LSTAT_std": 17.682237379458954,
+  "RM_mean": 4.408556537366948,
+  "RM_std": 0.48943488552677095,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 09:38:15 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 09:38:15 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 10:17:03 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 10:17:03 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 10:17:03 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 10:17:03 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 10:17:03 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 10:17:03 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 11:55:01 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 11:55:01 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 11:55:01 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 11:55:01 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 11:55:01 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 11:55:01 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 13:58:18 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 13:58:18 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 13:58:18 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 13:58:18 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.59188082927148,
+  "LSTAT_std": 17.684560189327584,
+  "RM_mean": 4.404957307686703,
+  "RM_std": 0.4872261786723704,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 13:58:18 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 13:58:18 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 14:09:50 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 14:09:50 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 14:09:51 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 14:09:51 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.59188082927148,
+  "LSTAT_std": 17.684560189327584,
+  "RM_mean": 4.404957307686703,
+  "RM_std": 0.4872261786723704,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 14:09:51 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 14:09:51 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 15:04:34 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 15:04:34 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 15:04:35 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 15:04:35 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 15:04:35 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 15:04:35 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 16:45:15 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 16:45:15 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 16:45:15 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 16:45:15 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 16:45:15 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 16:45:15 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 18:25:14 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 18:25:14 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 18:25:14 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 18:25:14 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 18:25:14 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 18:25:14 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 18:35:40 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 18:35:40 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 18:35:40 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 18:35:40 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.63754295793492,
+  "LSTAT_std": 17.682928805101728,
+  "RM_mean": 4.405383875227481,
+  "RM_std": 0.4801432997105304,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 18:35:40 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 18:35:40 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 18:43:01 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 18:43:01 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 18:43:01 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 18:43:01 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 18:43:01 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 18:43:01 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 18:55:11 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 18:55:11 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 18:55:11 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 18:55:11 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 31.590880393347565,
+  "LSTAT_std": 17.694487008036273,
+  "RM_mean": 4.40044763541639,
+  "RM_std": 0.4786060887685718,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 18:55:11 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 18:55:11 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 19:03:01 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 19:03:01 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 19:03:01 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 19:03:01 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 19:03:01 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 19:03:02 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 19:11:51 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 19:11:51 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 19:11:51 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 19:11:51 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 50.53788636538898,
+  "LSTAT_std": 28.299249512407687,
+  "RM_mean": 2.5105541635429023,
+  "RM_std": 0.29412316745226136,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 19:11:51 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 19:11:51 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 19:20:15 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 19:20:15 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 19:20:15 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 19:20:15 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 50.54889726577779,
+  "LSTAT_std": 28.324870552741967,
+  "RM_mean": 2.5142775840920475,
+  "RM_std": 0.2852084892180634,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 19:20:15 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 19:20:15 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 19:32:02 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 19:32:02 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 19:32:02 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 19:32:02 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 19:32:02 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 19:32:02 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 19:40:15 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 19:40:15 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 19:40:15 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 19:40:15 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 50.59467363826189,
+  "LSTAT_std": 28.26360875494832,
+  "RM_mean": 2.513794452901276,
+  "RM_std": 0.28522236684834024,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 19:40:15 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 19:40:15 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 19:51:08 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 19:51:08 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 19:51:08 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 19:51:08 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 19:51:08 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 19:51:08 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 20:03:28 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 20:03:28 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 20:03:28 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 20:03:28 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 50.583341505360536,
+  "LSTAT_std": 28.33330997474281,
+  "RM_mean": 2.516084896559346,
+  "RM_std": 0.2955837442087384,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 20:03:28 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 20:03:28 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 20:11:04 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 20:11:04 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 20:11:04 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 20:11:04 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 20:11:04 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 20:11:05 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 20:21:36 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 20:21:36 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 20:21:36 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 20:21:36 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 20:21:36 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 20:21:36 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 20:32:25 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 20:32:25 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 20:32:25 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 20:32:25 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12.642073122529647,
+  "LSTAT_std": 7.074084105121006,
+  "RM_mean": 6.287106126482214,
+  "RM_std": 0.6788763843147099,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 20:32:25 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 20:32:25 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 20:49:01 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 20:49:01 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 20:49:01 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 20:49:01 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 50.551522329001365,
+  "LSTAT_std": 28.286086733418895,
+  "RM_mean": 2.510971069149325,
+  "RM_std": 0.2893372601685216,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 20:49:01 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 20:49:01 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 21:22:26 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 21:22:26 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 21:22:26 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 21:22:26 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 126.37561204139548,
+  "LSTAT_std": 70.72680951574324,
+  "RM_mean": 1.7576395643615306,
+  "RM_std": 0.2245179760314987,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 21:22:26 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 21:22:26 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 21:39:05 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 21:39:05 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 21:39:05 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 21:39:05 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 789.8947360148114,
+  "LSTAT_std": 442.14889749479494,
+  "RM_mean": 0.8609695961965647,
+  "RM_std": 0.15704610066034086,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 21:39:05 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 21:39:05 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 21:52:03 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 21:52:03 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 21:52:03 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 21:52:03 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 1974.746961208127,
+  "LSTAT_std": 1105.341483355819,
+  "RM_mean": 0.6048930295584132,
+  "RM_std": 0.14486461028212622,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 21:52:03 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 21:52:03 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-26 22:04:53 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-26 22:04:53 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-26 22:04:53 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-26 22:04:53 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 4936.897710753259,
+  "LSTAT_std": 2763.343494295776,
+  "RM_mean": 0.41570108097118547,
+  "RM_std": 0.14247053930411413,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-26 22:04:53 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-26 22:04:53 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 07:27:24 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 07:27:24 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 07:27:24 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 07:27:24 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 12342.256258029207,
+  "LSTAT_std": 6908.371460162613,
+  "RM_mean": 0.2950546614931475,
+  "RM_std": 0.1405902439672728,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 07:27:24 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 07:27:25 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 07:35:23 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 07:35:23 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 07:35:23 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 07:35:23 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 30855.62981437074,
+  "LSTAT_std": 17270.916519445993,
+  "RM_mean": 0.21375045243088714,
+  "RM_std": 0.14197428461795988,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 07:35:23 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 07:35:23 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 07:41:10 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 07:41:10 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 07:41:10 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 07:41:10 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 30855.62981437074,
+  "LSTAT_std": 17270.916519445993,
+  "RM_mean": 0.21375045243088714,
+  "RM_std": 0.14197428461795988,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 07:41:10 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 07:41:10 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 07:47:46 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 07:47:46 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 07:47:46 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 07:47:46 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 77139.08699556827,
+  "LSTAT_std": 43177.25273821342,
+  "RM_mean": 0.14765762169481314,
+  "RM_std": 0.15092412074825554,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 07:47:47 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 07:47:47 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 07:53:57 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 07:53:57 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 07:53:57 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 07:53:57 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 192847.70578391064,
+  "LSTAT_std": 107943.14066748011,
+  "RM_mean": 0.10709457984213064,
+  "RM_std": 0.13986472057278,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 07:53:57 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 07:53:57 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 08:11:12 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 08:11:12 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 08:11:12 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 08:11:12 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 482119.27042403264,
+  "LSTAT_std": 269857.83924258855,
+  "RM_mean": 0.07489922193535999,
+  "RM_std": 0.1392914716011765,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 08:11:12 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 08:11:12 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 08:21:31 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 08:21:31 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 08:21:31 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 08:21:31 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 1205298.1941587962,
+  "LSTAT_std": 674644.5580239317,
+  "RM_mean": 0.04653847803163298,
+  "RM_std": 0.13699125650874794,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 08:21:31 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 08:21:31 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 08:32:07 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 08:32:07 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 08:32:07 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 08:32:07 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 3013245.5104208644,
+  "LSTAT_std": 1686611.3729101825,
+  "RM_mean": 0.036323250908898555,
+  "RM_std": 0.13589679052223047,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 08:32:08 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 08:32:08 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 08:50:40 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 08:50:41 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 08:50:41 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 08:50:41 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 18832784.44261321,
+  "LSTAT_std": 10541321.11157502,
+  "RM_mean": 0.011122892409643885,
+  "RM_std": 0.13209104702868135,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 08:50:41 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 08:50:41 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 08:56:54 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 08:56:54 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 08:56:54 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 08:56:54 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 47081961.120562635,
+  "LSTAT_std": 26353302.780978713,
+  "RM_mean": 0.01000381499269202,
+  "RM_std": 0.1401635900329794,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 08:56:54 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 08:56:54 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 09:00:19 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 09:00:19 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 09:00:19 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 09:00:19 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 47081961.120562635,
+  "LSTAT_std": 26353302.780978713,
+  "RM_mean": 0.01000381499269202,
+  "RM_std": 0.1401635900329794,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 09:00:19 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 09:00:20 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 09:04:54 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 09:04:54 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 09:04:54 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 09:04:54 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 117704902.81145123,
+  "LSTAT_std": 65883256.898040645,
+  "RM_mean": 0.006937325317652667,
+  "RM_std": 0.14327891210383892,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 09:04:54 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 09:04:55 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 09:12:15 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 09:12:15 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 09:12:15 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 09:12:15 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 294262256.9959433,
+  "LSTAT_std": 164708142.2895646,
+  "RM_mean": 0.0028501263596078076,
+  "RM_std": 0.14181996440004324,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 09:12:15 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 09:12:15 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 09:22:38 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 09:22:38 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 09:22:38 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 09:22:38 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 735655642.4506415,
+  "LSTAT_std": 411770355.73501426,
+  "RM_mean": 0.0022559505544893633,
+  "RM_std": 0.1380355348184476,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 09:22:38 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 09:22:38 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 09:34:46 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 09:34:46 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 09:34:46 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 09:34:46 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 1839139106.187442,
+  "LSTAT_std": 1029425889.3315136,
+  "RM_mean": 0.015075260804320659,
+  "RM_std": 0.1397750051859048,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 09:34:46 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 09:34:46 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 09:42:41 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 09:42:41 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 09:42:41 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 09:42:41 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 4597847765.477587,
+  "LSTAT_std": 2573564723.323687,
+  "RM_mean": 0.008013866786600394,
+  "RM_std": 0.13104804026882144,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 09:42:41 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 09:42:42 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 09:52:08 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 09:52:08 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 09:52:08 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 09:52:08 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 11494619413.703056,
+  "LSTAT_std": 6433911808.344054,
+  "RM_mean": 0.015043992296549213,
+  "RM_std": 0.13344772961259457,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 09:52:08 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 09:52:08 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 10:02:05 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 10:02:05 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 10:02:05 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 10:02:05 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 28736548534.25261,
+  "LSTAT_std": 16084779520.893425,
+  "RM_mean": 0.004146563145716972,
+  "RM_std": 0.1396433988613396,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 10:02:05 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 10:02:05 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 10:12:13 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 10:12:13 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 10:12:13 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 10:12:13 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 71841371335.60437,
+  "LSTAT_std": 40211948802.24544,
+  "RM_mean": -0.006696360615452244,
+  "RM_std": 0.1307813915253308,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 10:12:13 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 10:12:13 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 14:52:30 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 14:52:30 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 14:52:30 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 14:52:30 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 179603428338.99344,
+  "LSTAT_std": 100529872005.586,
+  "RM_mean": 0.0007158384031171528,
+  "RM_std": 0.1283234451744068,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 14:52:30 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 14:52:30 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 15:06:28 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 15:06:28 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 15:06:28 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 15:06:28 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 1122521427118.7473,
+  "LSTAT_std": 628311700034.8301,
+  "RM_mean": -0.0032408189552227966,
+  "RM_std": 0.13457708125548368,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 15:06:28 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 15:06:28 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 15:17:56 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 15:17:56 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 15:17:56 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 15:17:56 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 2806303567796.873,
+  "LSTAT_std": 1570779250087.08,
+  "RM_mean": -0.004369248592798255,
+  "RM_std": 0.1394328699364175,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 15:17:56 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 15:17:57 | INFO     | preprocess   | Preprocessing complete. All files saved.
+2026-05-27 15:28:34 | INFO     | preprocess   | Starting preprocessing stage
+2026-05-27 15:28:35 | INFO     | preprocess   | Loaded raw data: 506 rows, 14 columns
+2026-05-27 15:28:35 | INFO     | preprocess   | After cleaning: 506 rows (removed 0)
+2026-05-27 15:28:35 | INFO     | preprocess   | Dataset stats: {
+  "n_rows": 506,
+  "LSTAT_mean": 7015758919492.212,
+  "LSTAT_std": 3926948125217.695,
+  "RM_mean": 0.0004563982686454196,
+  "RM_std": 0.13223876433020798,
+  "MEDV_mean": 22.544980237154153,
+  "MEDV_std": 9.175344367217745
+}
+2026-05-27 15:28:35 | INFO     | preprocess   | Train: 404 rows | Test: 102 rows
+2026-05-27 15:28:35 | INFO     | preprocess   | Preprocessing complete. All files saved.

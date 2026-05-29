@@ -1,0 +1,484 @@
+2026-05-24 11:17:09 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-24 11:17:09 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-24 11:17:09 | INFO     | train        | Data loaded � Train: (404, 13), Test: (102, 13)
+2026-05-24 11:17:09 | INFO     | train        | Training Linear Regression...
+2026-05-24 11:17:37 | INFO     | train        | LinearRegression MLflow run_id: 59501bc544ff4289876100ac52c560ab
+2026-05-24 11:17:37 | INFO     | train        | Training Random Forest...
+2026-05-24 11:17:47 | INFO     | train        | RandomForest MLflow run_id: f77b8817d9b44e3998321b870f26c6d3
+2026-05-24 11:17:47 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-24 14:00:34 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-24 14:00:34 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-24 14:00:35 | INFO     | train        | Data loaded � Train: (404, 13), Test: (102, 13)
+2026-05-24 14:00:35 | INFO     | train        | Training Linear Regression...
+2026-05-24 14:01:08 | INFO     | train        | LinearRegression MLflow run_id: 0c1a90b18cdf422d85dd9713221484b7
+2026-05-24 14:01:08 | INFO     | train        | Training Random Forest...
+2026-05-24 14:01:36 | INFO     | train        | RandomForest MLflow run_id: c173c2cd0b6b4de3b6de80d3ad1825c1
+2026-05-24 14:01:37 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-24 14:10:21 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-24 14:10:21 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-24 14:10:21 | INFO     | train        | Data loaded � Train: (404, 13), Test: (102, 13)
+2026-05-24 14:10:21 | INFO     | train        | Training Linear Regression...
+2026-05-24 14:11:08 | INFO     | train        | LinearRegression MLflow run_id: 8d855f52e17a4e72ba0562bfc9758f29
+2026-05-24 14:11:08 | INFO     | train        | Training Random Forest...
+2026-05-24 14:11:42 | INFO     | train        | RandomForest MLflow run_id: 67f3afe822194b2c919e57f3425e6cad
+2026-05-24 14:11:42 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-24 14:20:16 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-24 14:20:16 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-24 14:20:16 | INFO     | train        | Data loaded � Train: (404, 13), Test: (102, 13)
+2026-05-24 14:20:16 | INFO     | train        | Training Linear Regression...
+2026-05-24 14:20:51 | INFO     | train        | LinearRegression MLflow run_id: e684417fd9074d2f8661235725accfea
+2026-05-24 14:20:52 | INFO     | train        | Training Random Forest...
+2026-05-24 14:21:11 | INFO     | train        | RandomForest MLflow run_id: f5d7112df9c34c37a6cdc2580afb85ad
+2026-05-24 14:21:11 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-24 14:28:47 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-24 14:28:47 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-24 14:28:47 | INFO     | train        | Data loaded � Train: (404, 13), Test: (102, 13)
+2026-05-24 14:28:47 | INFO     | train        | Training Linear Regression...
+2026-05-24 14:29:06 | INFO     | train        | LinearRegression MLflow run_id: e8692fc49cc842e1877c1873ed0d4a61
+2026-05-24 14:29:06 | INFO     | train        | Training Random Forest...
+2026-05-24 14:29:18 | INFO     | train        | RandomForest MLflow run_id: 219dafa1b7eb4b9e9ea397a322eb9aa5
+2026-05-24 14:29:18 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-24 14:36:48 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-24 14:36:48 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-24 14:36:48 | INFO     | train        | Data loaded � Train: (404, 13), Test: (102, 13)
+2026-05-24 14:36:48 | INFO     | train        | Training Linear Regression...
+2026-05-24 14:37:12 | INFO     | train        | LinearRegression MLflow run_id: cf90c441157648ca902a2de483b8c96c
+2026-05-24 14:37:12 | INFO     | train        | Training Random Forest...
+2026-05-24 14:37:25 | INFO     | train        | RandomForest MLflow run_id: fdbde2c0af7a486e9ff53f350fcc1961
+2026-05-24 14:37:25 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-24 14:45:07 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-24 14:45:07 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-24 14:45:07 | INFO     | train        | Data loaded � Train: (404, 13), Test: (102, 13)
+2026-05-24 14:45:07 | INFO     | train        | Training Linear Regression...
+2026-05-24 14:45:38 | INFO     | train        | LinearRegression MLflow run_id: 0b186aaaadb34886a473e595332c6d0b
+2026-05-24 14:45:38 | INFO     | train        | Training Random Forest...
+2026-05-24 14:45:54 | INFO     | train        | RandomForest MLflow run_id: 34ed590100964eb590da97bc6980e50e
+2026-05-24 14:45:54 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-24 14:53:34 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-24 14:53:34 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-24 14:53:34 | INFO     | train        | Data loaded � Train: (404, 13), Test: (102, 13)
+2026-05-24 14:53:34 | INFO     | train        | Training Linear Regression...
+2026-05-24 14:53:53 | INFO     | train        | LinearRegression MLflow run_id: 3382f6a8dbde41a0bfb3f6197db800a3
+2026-05-24 14:53:54 | INFO     | train        | Training Random Forest...
+2026-05-24 14:54:09 | INFO     | train        | RandomForest MLflow run_id: 605af0d7b2cc487c9796c29bda8fa2c3
+2026-05-24 14:54:10 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-24 15:01:39 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-24 15:01:39 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-24 15:01:39 | INFO     | train        | Data loaded � Train: (404, 13), Test: (102, 13)
+2026-05-24 15:01:39 | INFO     | train        | Training Linear Regression...
+2026-05-24 15:02:02 | INFO     | train        | LinearRegression MLflow run_id: 71fbfdeddec04ab586a724beebcd0d55
+2026-05-24 15:02:03 | INFO     | train        | Training Random Forest...
+2026-05-24 15:02:15 | INFO     | train        | RandomForest MLflow run_id: aa316c4938074290b729768014fb2884
+2026-05-24 15:02:15 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-24 15:09:49 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-24 15:09:49 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-24 15:09:49 | INFO     | train        | Data loaded � Train: (404, 13), Test: (102, 13)
+2026-05-24 15:09:49 | INFO     | train        | Training Linear Regression...
+2026-05-24 15:10:09 | INFO     | train        | LinearRegression MLflow run_id: ba6ce7de393544ac95f8fc7e9247e43f
+2026-05-24 15:10:09 | INFO     | train        | Training Random Forest...
+2026-05-24 15:10:27 | INFO     | train        | RandomForest MLflow run_id: 6e9149bfa30340fdbf7fbbfe1ff49a57
+2026-05-24 15:10:27 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-24 20:04:11 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-24 20:04:11 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-24 20:04:11 | INFO     | train        | Data loaded � Train: (404, 13), Test: (102, 13)
+2026-05-24 20:04:11 | INFO     | train        | Training Linear Regression...
+2026-05-24 20:04:47 | INFO     | train        | LinearRegression MLflow run_id: 100dbcdbbeb646ee9f8da51e1f58f26e
+2026-05-24 20:04:47 | INFO     | train        | Training Random Forest...
+2026-05-24 20:05:06 | INFO     | train        | RandomForest MLflow run_id: 7f03842649d943ef9b5cf32d6df054b5
+2026-05-24 20:05:06 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-25 20:06:49 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-25 20:06:50 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-25 20:07:45 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-25 20:07:45 | INFO     | train        | Training Linear Regression...
+2026-05-25 20:07:52 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 11:55:26 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 11:55:26 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 11:55:26 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 11:55:26 | INFO     | train        | Training Linear Regression...
+2026-05-26 11:55:28 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 11:56:28 | INFO     | train        | LinearRegression MLflow run_id: 70314bc925ef4e3489b258d76d32372e
+2026-05-26 11:56:28 | INFO     | train        | Training Random Forest...
+2026-05-26 11:56:28 | INFO     | train        | RandomForest → RMSE: 2.9904 | R²: 0.8770 | MAE: 2.0641
+2026-05-26 11:56:53 | INFO     | train        | RandomForest MLflow run_id: 7d845f0236fc4e7989f8affb7a197981
+2026-05-26 11:56:53 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 11:56:53 | INFO     | train        | LR   → RMSE: 4.8316 | R²: 0.6790
+2026-05-26 11:56:53 | INFO     | train        | RF   → RMSE: 2.9904 | R²: 0.8770
+2026-05-26 13:59:52 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 13:59:52 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 13:59:52 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 13:59:52 | INFO     | train        | Training Linear Regression...
+2026-05-26 13:59:54 | INFO     | train        | LinearRegression → RMSE: 4.7790 | R²: 0.6859 | MAE: 3.2101
+2026-05-26 14:03:05 | INFO     | train        | LinearRegression MLflow run_id: 01884352deb2486692e78f9b424ac5bf
+2026-05-26 14:03:06 | INFO     | train        | Training Random Forest...
+2026-05-26 14:03:43 | INFO     | train        | RandomForest → RMSE: 3.0176 | R²: 0.8748 | MAE: 2.1487
+2026-05-26 14:06:26 | INFO     | train        | RandomForest MLflow run_id: 61cc3c5667c04ba191a159b1f646fbc7
+2026-05-26 14:06:26 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 14:06:26 | INFO     | train        | LR   → RMSE: 4.7790 | R²: 0.6859
+2026-05-26 14:06:26 | INFO     | train        | RF   → RMSE: 3.0176 | R²: 0.8748
+2026-05-26 14:18:26 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 14:18:26 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 14:18:26 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 14:18:26 | INFO     | train        | Training Linear Regression...
+2026-05-26 14:18:29 | INFO     | train        | LinearRegression → RMSE: 4.7790 | R²: 0.6859 | MAE: 3.2101
+2026-05-26 14:22:45 | INFO     | train        | LinearRegression MLflow run_id: 5921f803a1eb4b1cbdf8f680851c4c2c
+2026-05-26 14:22:47 | INFO     | train        | Training Random Forest...
+2026-05-26 14:22:50 | INFO     | train        | RandomForest → RMSE: 3.0176 | R²: 0.8748 | MAE: 2.1487
+2026-05-26 14:25:00 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 14:25:00 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 14:25:00 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 14:25:00 | INFO     | train        | Training Linear Regression...
+2026-05-26 14:25:03 | INFO     | train        | LinearRegression → RMSE: 4.7790 | R²: 0.6859 | MAE: 3.2101
+2026-05-26 15:16:55 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 15:16:55 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 15:16:56 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 15:16:56 | INFO     | train        | Training Linear Regression...
+2026-05-26 15:16:59 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 16:01:25 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 16:01:25 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 16:01:25 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 16:01:25 | INFO     | train        | Training Linear Regression...
+2026-05-26 16:01:31 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 17:29:49 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 17:29:49 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 17:29:49 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 17:29:49 | INFO     | train        | Training Linear Regression...
+2026-05-26 17:29:52 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 17:39:30 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 17:39:30 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 17:39:30 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 17:39:30 | INFO     | train        | Training Linear Regression...
+2026-05-26 17:39:31 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 17:41:12 | INFO     | train        | LinearRegression MLflow run_id: 0a87589ffd2a44908d84fca94af7e383
+2026-05-26 17:41:12 | INFO     | train        | Training Random Forest...
+2026-05-26 17:41:13 | INFO     | train        | RandomForest → RMSE: 2.9904 | R²: 0.8770 | MAE: 2.0641
+2026-05-26 17:41:47 | INFO     | train        | RandomForest MLflow run_id: 7b9e89b4863c448999d572f48d879495
+2026-05-26 17:41:47 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 17:41:47 | INFO     | train        | LR   → RMSE: 4.8316 | R²: 0.6790
+2026-05-26 17:41:47 | INFO     | train        | RF   → RMSE: 2.9904 | R²: 0.8770
+2026-05-26 18:31:24 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 18:31:24 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 18:31:24 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 18:31:24 | INFO     | train        | Training Linear Regression...
+2026-05-26 18:31:27 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 18:33:35 | INFO     | train        | LinearRegression MLflow run_id: 9068e87714814f7d93568c9d731ff934
+2026-05-26 18:33:36 | INFO     | train        | Training Random Forest...
+2026-05-26 18:33:36 | INFO     | train        | RandomForest → RMSE: 2.9904 | R²: 0.8770 | MAE: 2.0641
+2026-05-26 18:34:27 | INFO     | train        | RandomForest MLflow run_id: 15a0524be77b4de4a8fe830b09a7489d
+2026-05-26 18:34:27 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 18:34:27 | INFO     | train        | LR   → RMSE: 4.8316 | R²: 0.6790
+2026-05-26 18:34:27 | INFO     | train        | RF   → RMSE: 2.9904 | R²: 0.8770
+2026-05-26 19:24:21 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 19:24:21 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 19:24:21 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 19:24:21 | INFO     | train        | Training Linear Regression...
+2026-05-26 19:24:22 | INFO     | train        | LinearRegression → RMSE: 4.6290 | R²: 0.7053 | MAE: 3.1556
+2026-05-26 19:25:48 | INFO     | train        | LinearRegression MLflow run_id: 212d399923c34941894df85d795d2095
+2026-05-26 19:25:48 | INFO     | train        | Training Random Forest...
+2026-05-26 19:25:49 | INFO     | train        | RandomForest → RMSE: 3.1781 | R²: 0.8611 | MAE: 2.1704
+2026-05-26 19:26:29 | INFO     | train        | RandomForest MLflow run_id: 8c4566c5645a4bf98d2825c78594314d
+2026-05-26 19:26:29 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 19:26:29 | INFO     | train        | LR   → RMSE: 4.6290 | R²: 0.7053
+2026-05-26 19:26:29 | INFO     | train        | RF   → RMSE: 3.1781 | R²: 0.8611
+2026-05-26 19:33:54 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 19:33:54 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 19:33:54 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 19:33:54 | INFO     | train        | Training Linear Regression...
+2026-05-26 19:33:55 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 19:41:11 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 19:41:11 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 19:41:11 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 19:41:11 | INFO     | train        | Training Linear Regression...
+2026-05-26 19:41:12 | INFO     | train        | LinearRegression → RMSE: 4.7576 | R²: 0.6887 | MAE: 3.1741
+2026-05-26 19:42:12 | INFO     | train        | LinearRegression MLflow run_id: 5574f7cfbe384f58abbcdd4580b05a50
+2026-05-26 19:42:12 | INFO     | train        | Training Random Forest...
+2026-05-26 19:42:13 | INFO     | train        | RandomForest → RMSE: 3.2939 | R²: 0.8508 | MAE: 2.2074
+2026-05-26 19:42:39 | INFO     | train        | RandomForest MLflow run_id: f2f3fa49195a401eb759be8bb407278b
+2026-05-26 19:42:39 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 19:42:39 | INFO     | train        | LR   → RMSE: 4.7576 | R²: 0.6887
+2026-05-26 19:42:39 | INFO     | train        | RF   → RMSE: 3.2939 | R²: 0.8508
+2026-05-26 19:52:28 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 19:52:28 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 19:52:28 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 19:52:28 | INFO     | train        | Training Linear Regression...
+2026-05-26 19:52:30 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 19:53:40 | INFO     | train        | LinearRegression MLflow run_id: a934f45644cc410ebbe444c68ac42426
+2026-05-26 19:53:40 | INFO     | train        | Training Random Forest...
+2026-05-26 19:53:40 | INFO     | train        | RandomForest → RMSE: 2.9904 | R²: 0.8770 | MAE: 2.0641
+2026-05-26 19:54:05 | INFO     | train        | RandomForest MLflow run_id: fd25392cd37e4eee99d97c71a6a2b9e0
+2026-05-26 19:54:05 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 19:54:05 | INFO     | train        | LR   → RMSE: 4.8316 | R²: 0.6790
+2026-05-26 19:54:05 | INFO     | train        | RF   → RMSE: 2.9904 | R²: 0.8770
+2026-05-26 20:05:06 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 20:05:06 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 20:05:06 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 20:05:06 | INFO     | train        | Training Linear Regression...
+2026-05-26 20:05:08 | INFO     | train        | LinearRegression → RMSE: 5.0184 | R²: 0.6537 | MAE: 3.3899
+2026-05-26 20:12:58 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 20:12:58 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 20:12:58 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 20:12:58 | INFO     | train        | Training Linear Regression...
+2026-05-26 20:12:59 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 20:14:03 | INFO     | train        | LinearRegression MLflow run_id: a9aae7a2e5f34779af3bfa894d3f99d8
+2026-05-26 20:14:03 | INFO     | train        | Training Random Forest...
+2026-05-26 20:14:03 | INFO     | train        | RandomForest → RMSE: 2.9904 | R²: 0.8770 | MAE: 2.0641
+2026-05-26 20:14:30 | INFO     | train        | RandomForest MLflow run_id: 38b968f351b54f9e9def9e1c05e69f4e
+2026-05-26 20:14:30 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 20:14:30 | INFO     | train        | LR   → RMSE: 4.8316 | R²: 0.6790
+2026-05-26 20:14:30 | INFO     | train        | RF   → RMSE: 2.9904 | R²: 0.8770
+2026-05-26 20:22:30 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 20:22:30 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 20:22:30 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 20:22:30 | INFO     | train        | Training Linear Regression...
+2026-05-26 20:22:31 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 20:23:35 | INFO     | train        | LinearRegression MLflow run_id: d0342fd9dfdf4aea9abee74a4f8752bc
+2026-05-26 20:23:35 | INFO     | train        | Training Random Forest...
+2026-05-26 20:23:35 | INFO     | train        | RandomForest → RMSE: 2.9904 | R²: 0.8770 | MAE: 2.0641
+2026-05-26 20:24:01 | INFO     | train        | RandomForest MLflow run_id: 9e1715c7d9924314889d908c5ee6a8b9
+2026-05-26 20:24:01 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 20:24:01 | INFO     | train        | LR   → RMSE: 4.8316 | R²: 0.6790
+2026-05-26 20:24:01 | INFO     | train        | RF   → RMSE: 2.9904 | R²: 0.8770
+2026-05-26 20:34:15 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 20:34:15 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 20:34:15 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 20:34:15 | INFO     | train        | Training Linear Regression...
+2026-05-26 20:34:16 | INFO     | train        | LinearRegression → RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-26 20:36:23 | INFO     | train        | LinearRegression MLflow run_id: d3d810a0bb7e48128c8099241a9a376f
+2026-05-26 20:36:23 | INFO     | train        | Training Random Forest...
+2026-05-26 20:36:24 | INFO     | train        | RandomForest → RMSE: 2.9904 | R²: 0.8770 | MAE: 2.0641
+2026-05-26 20:37:21 | INFO     | train        | RandomForest MLflow run_id: ac855800692847e0be82607f741a588f
+2026-05-26 20:37:21 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 20:37:21 | INFO     | train        | LR   → RMSE: 4.8316 | R²: 0.6790
+2026-05-26 20:37:21 | INFO     | train        | RF   → RMSE: 2.9904 | R²: 0.8770
+2026-05-26 20:50:35 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 20:50:35 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 20:50:35 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 20:50:35 | INFO     | train        | Training Linear Regression...
+2026-05-26 20:50:37 | INFO     | train        | LinearRegression → RMSE: 4.8284 | R²: 0.6794 | MAE: 3.2534
+2026-05-26 20:52:28 | INFO     | train        | LinearRegression MLflow run_id: 3f1a859083b74371a0c8cd5063fc0b4c
+2026-05-26 20:52:28 | INFO     | train        | Training Random Forest...
+2026-05-26 20:52:29 | INFO     | train        | RandomForest → RMSE: 3.3439 | R²: 0.8462 | MAE: 2.3203
+2026-05-26 20:53:25 | INFO     | train        | RandomForest MLflow run_id: 89918fc96a354725a4c0d9d29128d70d
+2026-05-26 20:53:25 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 20:53:25 | INFO     | train        | LR   → RMSE: 4.8284 | R²: 0.6794
+2026-05-26 20:53:25 | INFO     | train        | RF   → RMSE: 3.3439 | R²: 0.8462
+2026-05-26 21:25:15 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 21:25:15 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 21:25:15 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 21:25:15 | INFO     | train        | Training Linear Regression...
+2026-05-26 21:25:16 | INFO     | train        | LinearRegression → RMSE: 4.6951 | R²: 0.6969 | MAE: 3.2632
+2026-05-26 21:27:18 | INFO     | train        | LinearRegression MLflow run_id: 274c8acd770540c4881d45c5e7de0680
+2026-05-26 21:27:19 | INFO     | train        | Training Random Forest...
+2026-05-26 21:27:19 | INFO     | train        | RandomForest → RMSE: 3.4811 | R²: 0.8334 | MAE: 2.3333
+2026-05-26 21:28:08 | INFO     | train        | RandomForest MLflow run_id: f517de233ed74ac9b7e5f49b3349b0b8
+2026-05-26 21:28:08 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 21:28:08 | INFO     | train        | LR   → RMSE: 4.6951 | R²: 0.6969
+2026-05-26 21:28:08 | INFO     | train        | RF   → RMSE: 3.4811 | R²: 0.8334
+2026-05-26 21:41:08 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 21:41:08 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 21:41:09 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 21:41:09 | INFO     | train        | Training Linear Regression...
+2026-05-26 21:41:10 | INFO     | train        | LinearRegression → RMSE: 4.6524 | R²: 0.7023 | MAE: 3.2489
+2026-05-26 21:42:37 | INFO     | train        | LinearRegression MLflow run_id: 428d6b32c3b74b18b9ccbf677e1957af
+2026-05-26 21:42:38 | INFO     | train        | Training Random Forest...
+2026-05-26 21:42:38 | INFO     | train        | RandomForest → RMSE: 3.4546 | R²: 0.8359 | MAE: 2.5097
+2026-05-26 21:43:10 | INFO     | train        | RandomForest MLflow run_id: 4accc583ab51487ea26bc81b18dbaecf
+2026-05-26 21:43:10 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 21:43:10 | INFO     | train        | LR   → RMSE: 4.6524 | R²: 0.7023
+2026-05-26 21:43:10 | INFO     | train        | RF   → RMSE: 3.4546 | R²: 0.8359
+2026-05-26 21:53:03 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 21:53:03 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 21:53:03 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 21:53:03 | INFO     | train        | Training Linear Regression...
+2026-05-26 21:53:05 | INFO     | train        | LinearRegression → RMSE: 4.6739 | R²: 0.6996 | MAE: 3.2841
+2026-05-26 21:54:46 | INFO     | train        | LinearRegression MLflow run_id: 803d7d99352447b5a2f10467d569df62
+2026-05-26 21:54:46 | INFO     | train        | Training Random Forest...
+2026-05-26 21:54:48 | INFO     | train        | RandomForest → RMSE: 3.3587 | R²: 0.8449 | MAE: 2.4741
+2026-05-26 21:55:27 | INFO     | train        | RandomForest MLflow run_id: 7614ef5ef3ea4d179ab7c72a8d7e9bdc
+2026-05-26 21:55:27 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-26 21:55:27 | INFO     | train        | LR   → RMSE: 4.6739 | R²: 0.6996
+2026-05-26 21:55:27 | INFO     | train        | RF   → RMSE: 3.3587 | R²: 0.8449
+2026-05-26 22:06:05 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-26 22:06:05 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-26 22:06:05 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-26 22:06:05 | INFO     | train        | Training Linear Regression...
+2026-05-26 22:06:06 | INFO     | train        | LinearRegression → RMSE: 4.6354 | R²: 0.7045 | MAE: 3.2696
+2026-05-27 07:30:15 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 07:30:15 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 07:30:15 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 07:30:15 | INFO     | train        | Training Linear Regression...
+2026-05-27 07:30:19 | INFO     | train        | LinearRegression → RMSE: 4.6393 | R²: 0.7040 | MAE: 3.3110
+2026-05-27 07:38:46 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 07:38:46 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 07:38:46 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 07:38:46 | INFO     | train        | Training Linear Regression...
+2026-05-27 07:38:48 | INFO     | train        | LinearRegression → RMSE: 4.5888 | R²: 0.7104 | MAE: 3.2627
+2026-05-27 07:43:59 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 07:43:59 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 07:43:59 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 07:43:59 | INFO     | train        | Training Linear Regression...
+2026-05-27 07:44:01 | INFO     | train        | LinearRegression → RMSE: 4.5888 | R²: 0.7104 | MAE: 3.2627
+2026-05-27 07:49:55 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 07:49:55 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 07:49:55 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 07:49:55 | INFO     | train        | Training Linear Regression...
+2026-05-27 07:49:57 | INFO     | train        | LinearRegression → RMSE: 4.5797 | R²: 0.7116 | MAE: 3.2672
+2026-05-27 07:55:57 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 07:55:57 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 07:55:57 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 07:55:57 | INFO     | train        | Training Linear Regression...
+2026-05-27 07:56:00 | INFO     | train        | LinearRegression → RMSE: 4.6413 | R²: 0.7038 | MAE: 3.3487
+2026-05-27 08:14:39 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 08:14:39 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 08:14:39 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 08:14:39 | INFO     | train        | Training Linear Regression...
+2026-05-27 08:14:42 | INFO     | train        | LinearRegression → RMSE: 4.6485 | R²: 0.7028 | MAE: 3.3462
+2026-05-27 08:24:49 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 08:24:49 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 08:24:50 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 08:24:50 | INFO     | train        | Training Linear Regression...
+2026-05-27 08:24:56 | INFO     | train        | LinearRegression → RMSE: 4.6869 | R²: 0.6979 | MAE: 3.3180
+2026-05-27 08:52:41 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 08:52:41 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 08:52:41 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 08:52:41 | INFO     | train        | Training Linear Regression...
+2026-05-27 08:52:43 | INFO     | train        | LinearRegression → RMSE: 4.7102 | R²: 0.6949 | MAE: 3.3657
+2026-05-27 08:58:00 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 08:58:00 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 08:58:00 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 08:58:00 | INFO     | train        | Training Linear Regression...
+2026-05-27 08:58:03 | INFO     | train        | LinearRegression → RMSE: 4.6903 | R²: 0.6975 | MAE: 3.3413
+2026-05-27 09:01:48 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 09:01:48 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 09:01:48 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 09:01:48 | INFO     | train        | Training Linear Regression...
+2026-05-27 09:01:49 | INFO     | train        | LinearRegression → RMSE: 4.6903 | R²: 0.6975 | MAE: 3.3413
+2026-05-27 09:05:52 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 09:05:52 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 09:05:52 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 09:05:52 | INFO     | train        | Training Linear Regression...
+2026-05-27 09:05:54 | INFO     | train        | LinearRegression → RMSE: 4.6936 | R²: 0.6971 | MAE: 3.3359
+2026-05-27 09:13:20 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 09:13:20 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 09:13:20 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 09:13:20 | INFO     | train        | Training Linear Regression...
+2026-05-27 09:13:22 | INFO     | train        | LinearRegression → RMSE: 4.7127 | R²: 0.6946 | MAE: 3.3444
+2026-05-27 09:31:49 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 09:31:49 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 09:31:49 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 09:31:49 | INFO     | train        | Training Linear Regression...
+2026-05-27 09:31:53 | INFO     | train        | LinearRegression → RMSE: 4.7113 | R²: 0.6948 | MAE: 3.3622
+2026-05-27 09:31:54 | INFO     | train        | LinearRegression MLflow run_id: b8e47076503642bfba61bf42eefefeb9
+2026-05-27 09:31:54 | INFO     | train        | Training Random Forest...
+2026-05-27 09:31:55 | INFO     | train        | RandomForest → RMSE: 3.6302 | R²: 0.8188 | MAE: 2.6310
+2026-05-27 09:31:55 | INFO     | train        | RandomForest MLflow run_id: 8d788db1e0244431aa03ffcbcb225a86
+2026-05-27 09:31:55 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-27 09:31:55 | INFO     | train        | LR   → RMSE: 4.7113 | R²: 0.6948
+2026-05-27 09:31:55 | INFO     | train        | RF   → RMSE: 3.6302 | R²: 0.8188
+2026-05-27 09:35:55 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 09:35:55 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 09:35:55 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 09:35:55 | INFO     | train        | Training Linear Regression...
+2026-05-27 09:36:00 | INFO     | train        | LinearRegression → RMSE: 4.7130 | R²: 0.6945 | MAE: 3.3657
+2026-05-27 09:36:00 | INFO     | train        | LinearRegression MLflow run_id: df6bbbbe448e40dab4d3c3b7a593dce7
+2026-05-27 09:36:00 | INFO     | train        | Training Random Forest...
+2026-05-27 09:36:01 | INFO     | train        | RandomForest → RMSE: 3.5397 | R²: 0.8277 | MAE: 2.5663
+2026-05-27 09:36:01 | INFO     | train        | RandomForest MLflow run_id: beee9a5508e041b1b5dcf914a7da1d1b
+2026-05-27 09:36:01 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-27 09:36:01 | INFO     | train        | LR   → RMSE: 4.7130 | R²: 0.6945
+2026-05-27 09:36:01 | INFO     | train        | RF   → RMSE: 3.5397 | R²: 0.8277
+2026-05-27 09:43:40 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 09:43:40 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 09:43:40 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 09:43:40 | INFO     | train        | Training Linear Regression...
+2026-05-27 09:43:41 | INFO     | train        | LinearRegression → RMSE: 4.7184 | R²: 0.6938 | MAE: 3.3806
+2026-05-27 09:43:42 | INFO     | train        | LinearRegression MLflow run_id: 7fdc08410dcd401dab41d298a984719a
+2026-05-27 09:43:42 | INFO     | train        | Training Random Forest...
+2026-05-27 09:43:43 | INFO     | train        | RandomForest → RMSE: 3.4673 | R²: 0.8347 | MAE: 2.5597
+2026-05-27 09:43:43 | INFO     | train        | RandomForest MLflow run_id: 395c731e94f8455e863142bc1507064a
+2026-05-27 09:43:44 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-27 09:43:44 | INFO     | train        | LR   → RMSE: 4.7184 | R²: 0.6938
+2026-05-27 09:43:44 | INFO     | train        | RF   → RMSE: 3.4673 | R²: 0.8347
+2026-05-27 09:53:09 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 09:53:09 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 09:53:09 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 09:53:09 | INFO     | train        | Training Linear Regression...
+2026-05-27 09:53:10 | INFO     | train        | LinearRegression → RMSE: 4.6822 | R²: 0.6985 | MAE: 3.3311
+2026-05-27 09:53:11 | INFO     | train        | LinearRegression MLflow run_id: 8636fd04b9ca45b09cd06a506e120731
+2026-05-27 09:53:11 | INFO     | train        | Training Random Forest...
+2026-05-27 09:53:11 | INFO     | train        | RandomForest → RMSE: 3.4451 | R²: 0.8368 | MAE: 2.5412
+2026-05-27 09:53:11 | INFO     | train        | RandomForest MLflow run_id: 865bb4bbc6634234bf9c3d4f5262364a
+2026-05-27 09:53:12 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-27 09:53:12 | INFO     | train        | LR   → RMSE: 4.6822 | R²: 0.6985
+2026-05-27 09:53:12 | INFO     | train        | RF   → RMSE: 3.4451 | R²: 0.8368
+2026-05-27 10:03:02 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 10:03:02 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 10:03:02 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 10:03:02 | INFO     | train        | Training Linear Regression...
+2026-05-27 10:03:04 | INFO     | train        | LinearRegression → RMSE: 4.6762 | R²: 0.6993 | MAE: 3.3319
+2026-05-27 10:03:04 | INFO     | train        | LinearRegression MLflow run_id: ce974d5dee504f66b042e0e1b42bd25d
+2026-05-27 10:03:04 | INFO     | train        | Training Random Forest...
+2026-05-27 10:03:05 | INFO     | train        | RandomForest → RMSE: 3.4480 | R²: 0.8365 | MAE: 2.5146
+2026-05-27 10:03:05 | INFO     | train        | RandomForest MLflow run_id: 94b5e0ca22904f3ba47aae6ac3174137
+2026-05-27 10:03:05 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-27 10:03:05 | INFO     | train        | LR   → RMSE: 4.6762 | R²: 0.6993
+2026-05-27 10:03:05 | INFO     | train        | RF   → RMSE: 3.4480 | R²: 0.8365
+2026-05-27 10:13:13 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 10:13:13 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 10:13:13 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 10:13:13 | INFO     | train        | Training Linear Regression...
+2026-05-27 10:13:14 | INFO     | train        | LinearRegression → RMSE: 4.6772 | R²: 0.6992 | MAE: 3.3260
+2026-05-27 10:13:15 | INFO     | train        | LinearRegression MLflow run_id: e38df9895aa94ab0b388fb0df7038ba5
+2026-05-27 10:13:15 | INFO     | train        | Training Random Forest...
+2026-05-27 10:13:16 | INFO     | train        | RandomForest → RMSE: 3.5884 | R²: 0.8229 | MAE: 2.6144
+2026-05-27 10:13:16 | INFO     | train        | RandomForest MLflow run_id: 8ffaadfb67654ff990dcd5f7d46a9ec8
+2026-05-27 10:13:16 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-27 10:13:16 | INFO     | train        | LR   → RMSE: 4.6772 | R²: 0.6992
+2026-05-27 10:13:16 | INFO     | train        | RF   → RMSE: 3.5884 | R²: 0.8229
+2026-05-27 14:56:04 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 14:56:04 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 14:56:04 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 14:56:04 | INFO     | train        | Training Linear Regression...
+2026-05-27 14:56:08 | INFO     | train        | LinearRegression → RMSE: 4.6722 | R²: 0.6998 | MAE: 3.3162
+2026-05-27 14:56:09 | INFO     | train        | LinearRegression MLflow run_id: 6b607b2117ae474295ad33bc20128bd4
+2026-05-27 14:56:09 | INFO     | train        | Training Random Forest...
+2026-05-27 14:56:10 | INFO     | train        | RandomForest → RMSE: 3.4970 | R²: 0.8318 | MAE: 2.5681
+2026-05-27 14:56:10 | INFO     | train        | RandomForest MLflow run_id: f4ffd15fd95a442fb6d83605c9383abd
+2026-05-27 14:56:11 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-27 14:56:11 | INFO     | train        | LR   → RMSE: 4.6722 | R²: 0.6998
+2026-05-27 14:56:11 | INFO     | train        | RF   → RMSE: 3.4970 | R²: 0.8318
+2026-05-27 15:08:52 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 15:08:52 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 15:08:52 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 15:08:52 | INFO     | train        | Training Linear Regression...
+2026-05-27 15:08:54 | INFO     | train        | LinearRegression → RMSE: 4.6678 | R²: 0.7004 | MAE: 3.3180
+2026-05-27 15:08:54 | INFO     | train        | LinearRegression MLflow run_id: 30a3186c90e3414086ecb17eb8d956e3
+2026-05-27 15:08:54 | INFO     | train        | Training Random Forest...
+2026-05-27 15:08:55 | INFO     | train        | RandomForest → RMSE: 3.4713 | R²: 0.8343 | MAE: 2.5607
+2026-05-27 15:08:55 | INFO     | train        | RandomForest MLflow run_id: af375308ca83415284c1fb425095385e
+2026-05-27 15:08:56 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-27 15:08:56 | INFO     | train        | LR   → RMSE: 4.6678 | R²: 0.7004
+2026-05-27 15:08:56 | INFO     | train        | RF   → RMSE: 3.4713 | R²: 0.8343
+2026-05-27 15:19:03 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 15:19:03 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 15:19:03 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 15:19:03 | INFO     | train        | Training Linear Regression...
+2026-05-27 15:19:05 | INFO     | train        | LinearRegression → RMSE: 4.6693 | R²: 0.7002 | MAE: 3.3171
+2026-05-27 15:19:05 | INFO     | train        | LinearRegression MLflow run_id: 25981c63436c447c9a38fdbc91d0af56
+2026-05-27 15:19:06 | INFO     | train        | Training Random Forest...
+2026-05-27 15:19:07 | INFO     | train        | RandomForest → RMSE: 3.5444 | R²: 0.8272 | MAE: 2.5977
+2026-05-27 15:19:07 | INFO     | train        | RandomForest MLflow run_id: 71755fdeb30144e5a921172e5091a844
+2026-05-27 15:19:07 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-27 15:19:07 | INFO     | train        | LR   → RMSE: 4.6693 | R²: 0.7002
+2026-05-27 15:19:07 | INFO     | train        | RF   → RMSE: 3.5444 | R²: 0.8272
+2026-05-27 15:30:23 | INFO     | train        | MLflow tracking URI : http://localhost:5000
+2026-05-27 15:30:23 | INFO     | train        | MLflow experiment   : boston_housing
+2026-05-27 15:30:23 | INFO     | train        | Data loaded — Train: (404, 13), Test: (102, 13)
+2026-05-27 15:30:23 | INFO     | train        | Training Linear Regression...
+2026-05-27 15:30:25 | INFO     | train        | LinearRegression → RMSE: 4.6976 | R²: 0.6965 | MAE: 3.3289
+2026-05-27 15:30:25 | INFO     | train        | LinearRegression MLflow run_id: 452b36566a3242f1b027a0124932b083
+2026-05-27 15:30:25 | INFO     | train        | Training Random Forest...
+2026-05-27 15:30:26 | INFO     | train        | RandomForest → RMSE: 3.4964 | R²: 0.8319 | MAE: 2.5237
+2026-05-27 15:30:26 | INFO     | train        | RandomForest MLflow run_id: 03219540f8dd456991cac47572db70f3
+2026-05-27 15:30:26 | INFO     | train        | Training complete. Best model: random_forest
+2026-05-27 15:30:26 | INFO     | train        | LR   → RMSE: 4.6976 | R²: 0.6965
+2026-05-27 15:30:26 | INFO     | train        | RF   → RMSE: 3.4964 | R²: 0.8319

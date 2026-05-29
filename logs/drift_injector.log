@@ -1,0 +1,1205 @@
+2026-05-24 13:59:26 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-24 13:59:26 | INFO     | drift_injector | Drifted dataset saved to data/raw/boston.csv
+2026-05-24 13:59:26 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-24T13:59:26.744716",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.625772850744653,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.409263409196249,
+  "rows": 506
+}
+2026-05-24 14:05:14 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-24 14:09:05 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-24 14:09:05 | INFO     | drift_injector | Drifted dataset saved to data/raw/boston.csv
+2026-05-24 14:09:05 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-24T14:09:05.426444",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.598236242601338,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.396001585037925,
+  "rows": 506
+}
+2026-05-24 14:15:21 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-24 14:19:10 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-24 14:19:11 | INFO     | drift_injector | Drifted dataset saved to data/raw/boston.csv
+2026-05-24 14:19:11 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-24T14:19:11.066910",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.618526434570214,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.402722089613891,
+  "rows": 506
+}
+2026-05-24 14:24:32 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-24 14:28:12 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-24 14:28:13 | INFO     | drift_injector | Drifted dataset saved to data/raw/boston.csv
+2026-05-24 14:28:13 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-24T14:28:13.002142",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.618091786597326,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.396708942342062,
+  "rows": 506
+}
+2026-05-24 14:32:36 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-24 14:36:08 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-24 14:36:08 | INFO     | drift_injector | Drifted dataset saved to data/raw/boston.csv
+2026-05-24 14:36:08 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-24T14:36:08.949791",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.6692944467352,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.39708608292022,
+  "rows": 506
+}
+2026-05-24 14:40:37 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-24 14:44:11 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-24 14:44:12 | INFO     | drift_injector | Drifted dataset saved to data/raw/boston.csv
+2026-05-24 14:44:12 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-24T14:44:12.042298",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.63474789070381,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.400757406402414,
+  "rows": 506
+}
+2026-05-24 14:49:10 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-24 14:52:46 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-24 14:52:46 | INFO     | drift_injector | Drifted dataset saved to data/raw/boston.csv
+2026-05-24 14:52:46 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-24T14:52:46.233320",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.607183438580616,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.394630221446222,
+  "rows": 506
+}
+2026-05-24 14:57:25 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-24 15:00:53 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-24 15:00:53 | INFO     | drift_injector | Drifted dataset saved to data/raw/boston.csv
+2026-05-24 15:00:53 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-24T15:00:53.151311",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.636835405502943,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.3996818047817,
+  "rows": 506
+}
+2026-05-24 15:05:33 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-24 15:09:07 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-24 15:09:07 | INFO     | drift_injector | Drifted dataset saved to data/raw/boston.csv
+2026-05-24 15:09:07 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-24T15:09:07.059090",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.65181954662585,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.392852447701046,
+  "rows": 506
+}
+2026-05-24 15:13:42 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-24 20:03:17 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-24 20:03:17 | INFO     | drift_injector | Drifted dataset saved to data/raw/boston.csv
+2026-05-24 20:03:17 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-24T20:03:17.891559",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.635706154153755,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.4051601197335,
+  "rows": 506
+}
+2026-05-24 20:08:19 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 07:48:00 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 07:48:00 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 07:48:00 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6133 | RM mean: 4.3922
+2026-05-26 07:48:00 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 07:48:00 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T07:48:00.794912",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.61327141220585,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.392159526799562,
+  "rows": 506
+}
+2026-05-26 08:04:44 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 08:07:55 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 08:07:55 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 08:07:55 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6641 | RM mean: 4.3996
+2026-05-26 08:07:55 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 08:07:55 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T08:07:55.166834",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.664099683696474,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.399594700742463,
+  "rows": 506
+}
+2026-05-26 08:11:15 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 08:20:59 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 08:20:59 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 08:20:59 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6300 | RM mean: 4.4002
+2026-05-26 08:20:59 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 08:20:59 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T08:20:59.815099",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.62998077201405,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.400197118386009,
+  "rows": 506
+}
+2026-05-26 08:24:41 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 08:28:19 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 08:28:19 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 08:28:19 | INFO     | drift_injector | After drift  → LSTAT mean: 31.5683 | RM mean: 4.3988
+2026-05-26 08:28:19 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 08:28:19 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T08:28:19.500084",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.568301749504908,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.398811075174234,
+  "rows": 506
+}
+2026-05-26 08:32:16 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 08:36:04 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 08:36:04 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 08:36:04 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6332 | RM mean: 4.4010
+2026-05-26 08:36:04 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 08:36:04 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T08:36:04.233758",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.633192773868664,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.40095857228025,
+  "rows": 506
+}
+2026-05-26 08:39:18 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 08:42:37 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 08:42:37 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 08:42:37 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6461 | RM mean: 4.3994
+2026-05-26 08:42:37 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 08:42:37 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T08:42:37.657072",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.64612738071648,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.399418867613245,
+  "rows": 506
+}
+2026-05-26 08:45:48 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 08:49:05 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 08:49:05 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 08:49:05 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6495 | RM mean: 4.3987
+2026-05-26 08:49:05 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 08:49:05 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T08:49:05.566779",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.64947880241136,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.398672485944814,
+  "rows": 506
+}
+2026-05-26 08:52:28 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 08:55:02 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 08:55:02 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 08:55:02 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6576 | RM mean: 4.3975
+2026-05-26 08:55:02 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 08:55:02 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T08:55:02.748374",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.657563960789563,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.397528134719894,
+  "rows": 506
+}
+2026-05-26 09:03:18 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 09:26:21 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 09:26:21 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 09:26:21 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6092 | RM mean: 4.4067
+2026-05-26 09:26:21 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 09:26:21 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T09:26:21.463314",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.60917462821088,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.406698294340505,
+  "rows": 506
+}
+2026-05-26 09:29:04 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 09:32:10 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 09:32:10 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 09:32:11 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6293 | RM mean: 4.3921
+2026-05-26 09:32:11 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 09:32:11 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T09:32:11.061834",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.629319995001755,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.392101885627128,
+  "rows": 506
+}
+2026-05-26 09:35:19 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 09:38:02 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 09:38:02 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 09:38:02 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6376 | RM mean: 4.4068
+2026-05-26 09:38:02 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 09:38:02 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T09:38:02.769735",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.63756042647365,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.406842840300042,
+  "rows": 506
+}
+2026-05-26 09:40:06 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 09:42:45 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 09:42:45 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 09:42:45 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6334 | RM mean: 4.3913
+2026-05-26 09:42:45 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 09:42:45 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T09:42:45.327838",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.633436513761804,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.391297264408427,
+  "rows": 506
+}
+2026-05-26 09:45:46 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 09:54:13 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 09:54:13 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 09:54:13 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6477 | RM mean: 4.4041
+2026-05-26 09:54:13 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 09:54:13 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T09:54:13.791698",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.647665723019912,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.404093725497101,
+  "rows": 506
+}
+2026-05-26 10:06:51 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 12:15:15 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 12:15:15 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 12:15:15 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6299 | RM mean: 4.4087
+2026-05-26 12:15:15 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 12:15:15 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T12:15:15.704616",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.62987393741922,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.408685073549441,
+  "rows": 506
+}
+2026-05-26 12:18:17 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 12:21:36 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 12:21:36 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 12:21:36 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6436 | RM mean: 4.3937
+2026-05-26 12:21:36 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 12:21:36 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T12:21:36.822256",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.64358288525656,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.393681065570327,
+  "rows": 506
+}
+2026-05-26 12:25:02 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 12:28:18 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 12:28:18 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 12:28:18 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6744 | RM mean: 4.3937
+2026-05-26 12:28:18 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 12:28:18 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T12:28:18.201878",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.674440178255423,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.393661841359061,
+  "rows": 506
+}
+2026-05-26 12:32:52 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 12:37:15 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 12:37:15 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 12:37:15 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6592 | RM mean: 4.3960
+2026-05-26 12:37:15 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 12:37:15 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T12:37:15.582290",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.65919612586706,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.395962200991027,
+  "rows": 506
+}
+2026-05-26 12:39:46 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 12:45:30 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 12:45:30 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 12:45:30 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6610 | RM mean: 4.4047
+2026-05-26 12:45:30 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 12:45:30 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T12:45:30.231312",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.66097230293179,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.40471973141381,
+  "rows": 506
+}
+2026-05-26 12:47:46 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 12:49:52 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 12:49:52 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 12:49:52 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6030 | RM mean: 4.3978
+2026-05-26 12:49:52 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 12:49:52 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T12:49:52.828934",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.602993644155692,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.397811645640233,
+  "rows": 506
+}
+2026-05-26 12:51:49 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 12:54:27 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 12:54:27 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 12:54:27 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6431 | RM mean: 4.4032
+2026-05-26 12:54:27 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 12:54:27 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T12:54:27.093647",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.643082110635955,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.4032038314685185,
+  "rows": 506
+}
+2026-05-26 12:57:38 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 13:00:59 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 13:00:59 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 13:00:59 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6254 | RM mean: 4.3981
+2026-05-26 13:00:59 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 13:00:59 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T13:00:59.756227",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.625433825274648,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.398066177524412,
+  "rows": 506
+}
+2026-05-26 13:03:39 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 13:07:03 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 13:07:04 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 13:07:04 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6383 | RM mean: 4.3941
+2026-05-26 13:07:04 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 13:07:04 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T13:07:04.159747",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.638325044550182,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.394123672543562,
+  "rows": 506
+}
+2026-05-26 13:10:25 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 13:13:08 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 13:13:08 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 13:13:08 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6270 | RM mean: 4.3967
+2026-05-26 13:13:08 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 13:13:08 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T13:13:08.749898",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.627036551522984,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.39671436818822,
+  "rows": 506
+}
+2026-05-26 13:15:52 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 13:18:57 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 13:18:57 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 13:18:57 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6356 | RM mean: 4.3908
+2026-05-26 13:18:57 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 13:18:57 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T13:18:57.661334",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.635591769470683,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.390791750030595,
+  "rows": 506
+}
+2026-05-26 13:21:54 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 13:24:43 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 13:24:43 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 13:24:43 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6802 | RM mean: 4.4013
+2026-05-26 13:24:43 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 13:24:43 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T13:24:43.618601",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.68020143636541,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.401277576645277,
+  "rows": 506
+}
+2026-05-26 13:29:51 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 13:33:49 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 13:33:49 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 13:33:49 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6332 | RM mean: 4.4006
+2026-05-26 13:33:49 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 13:33:49 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T13:33:49.741360",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.63320025247533,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.4005968132628865,
+  "rows": 506
+}
+2026-05-26 13:37:34 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 13:41:52 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 13:41:52 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 13:41:52 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6563 | RM mean: 4.3928
+2026-05-26 13:41:52 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 13:41:52 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T13:41:52.900279",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.656309847409027,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.392772317940826,
+  "rows": 506
+}
+2026-05-26 13:45:45 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 13:49:24 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 13:49:24 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 13:49:24 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6206 | RM mean: 4.4032
+2026-05-26 13:49:24 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 13:49:24 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T13:49:24.698456",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.62064926137116,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.403165285166479,
+  "rows": 506
+}
+2026-05-26 13:52:51 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 13:56:07 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 13:56:07 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 13:56:07 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6199 | RM mean: 4.4035
+2026-05-26 13:56:07 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 13:56:07 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T13:56:07.816731",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.619882698350402,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.403465715232817,
+  "rows": 506
+}
+2026-05-26 14:28:52 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 14:32:14 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 14:32:14 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 14:32:14 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6384 | RM mean: 4.3963
+2026-05-26 14:32:14 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 14:32:14 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T14:32:14.850587",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.63844029768589,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.396306375962362,
+  "rows": 506
+}
+2026-05-26 16:40:55 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 17:13:50 | ERROR    | drift_injector | Dataset not found: /home/leisha/boston_mlops/data/raw/boston.csv
+2026-05-26 17:15:48 | ERROR    | drift_injector | Original dataset not found: /home/leisha/boston_mlops/data/raw/boston_original.csv
+2026-05-26 17:19:17 | ERROR    | drift_injector | Dataset not found: /home/leisha/boston_mlops/data/raw/boston.csv
+2026-05-26 17:26:26 | ERROR    | drift_injector | Original dataset not found: /home/leisha/boston_mlops/data/raw/boston_original.csv
+2026-05-26 17:30:53 | ERROR    | drift_injector | Dataset not found: /home/leisha/boston_mlops/data/raw/boston.csv
+2026-05-26 17:51:05 | ERROR    | drift_injector | Original dataset not found: /home/leisha/boston_mlops/data/raw/boston_original.csv
+2026-05-26 18:00:50 | ERROR    | drift_injector | Dataset not found: /home/leisha/boston_mlops/data/raw/boston.csv
+2026-05-26 18:10:45 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 18:10:45 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 18:10:45 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6423 | RM mean: 4.3947
+2026-05-26 18:10:45 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 18:10:45 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T18:10:45.946625",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.64232024411266,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.394718591896009,
+  "rows": 506
+}
+2026-05-26 18:21:23 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 18:31:11 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 18:31:11 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 18:31:11 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6658 | RM mean: 4.4033
+2026-05-26 18:31:12 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 18:31:12 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T18:31:12.011646",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.66575232952405,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.403322546248756,
+  "rows": 506
+}
+2026-05-26 18:40:40 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 18:51:02 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 18:51:02 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 18:51:02 | INFO     | drift_injector | After drift  → LSTAT mean: 31.6329 | RM mean: 4.3996
+2026-05-26 18:51:02 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 18:51:02 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T18:51:02.230946",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 31.63292791370841,
+  "rm_before": 6.284634387351779,
+  "rm_after": 4.399565687378442,
+  "rows": 506
+}
+2026-05-26 19:00:49 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 19:07:33 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 19:07:33 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 19:07:33 | INFO     | drift_injector | After drift  → LSTAT mean: 50.5905 | RM mean: 2.5108
+2026-05-26 19:07:33 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 19:07:33 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T19:07:33.865706",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 4.0,
+  "rm_scale": 0.4,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 50.590491792178284,
+  "rm_before": 6.284634387351779,
+  "rm_after": 2.510770527696199,
+  "rows": 506
+}
+2026-05-26 19:12:50 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 19:17:01 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 19:17:01 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 19:17:01 | INFO     | drift_injector | After drift  → LSTAT mean: 50.5956 | RM mean: 2.5147
+2026-05-26 19:17:01 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 19:17:01 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T19:17:01.453891",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 4.0,
+  "rm_scale": 0.4,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 50.59556787357058,
+  "rm_before": 6.284634387351779,
+  "rm_after": 2.514670601635542,
+  "rows": 506
+}
+2026-05-26 19:27:39 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 19:37:54 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 19:37:55 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 19:37:55 | INFO     | drift_injector | After drift  → LSTAT mean: 50.6386 | RM mean: 2.5134
+2026-05-26 19:37:55 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 19:37:55 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T19:37:55.061982",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 4.0,
+  "rm_scale": 0.4,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 50.63857177871926,
+  "rm_before": 6.284634387351779,
+  "rm_after": 2.5134474545459264,
+  "rows": 506
+}
+2026-05-26 19:43:26 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 19:54:53 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 19:54:53 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 19:54:53 | INFO     | drift_injector | After drift  → LSTAT mean: 50.6176 | RM mean: 2.5158
+2026-05-26 19:54:53 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 19:54:53 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T19:54:53.531093",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 4.0,
+  "rm_scale": 0.4,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 50.61756959950202,
+  "rm_before": 6.284634387351779,
+  "rm_after": 2.5157871349719967,
+  "rows": 506
+}
+2026-05-26 20:08:54 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 20:12:02 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 20:12:02 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 20:12:02 | INFO     | drift_injector | After drift  → LSTAT mean: 50.6101 | RM mean: 2.5144
+2026-05-26 20:12:02 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 20:12:02 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T20:12:02.724755",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 4.0,
+  "rm_scale": 0.4,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 50.61011134245288,
+  "rm_before": 6.284634387351779,
+  "rm_after": 2.514438863933785,
+  "rows": 506
+}
+2026-05-26 20:20:56 | INFO     | drift_injector | Dataset reset to original (506 rows)
+2026-05-26 20:38:37 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 20:38:37 | INFO     | drift_injector | Before drift → LSTAT mean: 12.6531 | RM mean: 6.2846
+2026-05-26 20:38:37 | INFO     | drift_injector | After drift  → LSTAT mean: 50.6003 | RM mean: 2.5102
+2026-05-26 20:38:37 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 20:38:37 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T20:38:37.272741",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 4.0,
+  "rm_scale": 0.4,
+  "lstat_before": 12.653063241106722,
+  "lstat_after": 50.60030669554922,
+  "rm_before": 6.284634387351779,
+  "rm_after": 2.5102172251051553,
+  "rows": 506
+}
+2026-05-26 21:20:25 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 21:20:25 | INFO     | drift_injector | Before drift → LSTAT mean: 50.6003 | RM mean: 2.5102
+2026-05-26 21:20:25 | INFO     | drift_injector | After drift  → LSTAT mean: 126.5102 | RM mean: 1.7575
+2026-05-26 21:20:25 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 21:20:25 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T21:20:25.912553",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 50.60030669554922,
+  "lstat_after": 126.51016604385859,
+  "rm_before": 2.5102172251051553,
+  "rm_after": 1.75753660210348,
+  "rows": 506
+}
+2026-05-26 21:23:27 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 21:23:27 | INFO     | drift_injector | Before drift → LSTAT mean: 126.5102 | RM mean: 1.7575
+2026-05-26 21:23:27 | INFO     | drift_injector | After drift  → LSTAT mean: 316.2855 | RM mean: 1.2280
+2026-05-26 21:23:28 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 21:23:28 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T21:23:28.043561",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 126.51016604385859,
+  "lstat_after": 316.285468226564,
+  "rm_before": 1.75753660210348,
+  "rm_after": 1.2280401703524735,
+  "rows": 506
+}
+2026-05-26 21:36:53 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 21:36:53 | INFO     | drift_injector | Before drift → LSTAT mean: 316.2855 | RM mean: 1.2280
+2026-05-26 21:36:53 | INFO     | drift_injector | After drift  → LSTAT mean: 790.7249 | RM mean: 0.8616
+2026-05-26 21:36:53 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 21:36:54 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T21:36:53.995393",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 316.285468226564,
+  "lstat_after": 790.7249447461085,
+  "rm_before": 1.2280401703524735,
+  "rm_after": 0.8616357966173902,
+  "rows": 506
+}
+2026-05-26 21:51:20 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 21:51:20 | INFO     | drift_injector | Before drift → LSTAT mean: 790.7249 | RM mean: 0.8616
+2026-05-26 21:51:20 | INFO     | drift_injector | After drift  → LSTAT mean: 1976.8205 | RM mean: 0.6048
+2026-05-26 21:51:20 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 21:51:20 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T21:51:20.584363",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 790.7249447461085,
+  "lstat_after": 1976.8204939353047,
+  "rm_before": 0.8616357966173902,
+  "rm_after": 0.6048393392589699,
+  "rows": 506
+}
+2026-05-26 22:04:06 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-26 22:04:06 | INFO     | drift_injector | Before drift → LSTAT mean: 1976.8205 | RM mean: 0.6048
+2026-05-26 22:04:06 | INFO     | drift_injector | After drift  → LSTAT mean: 4942.0714 | RM mean: 0.4149
+2026-05-26 22:04:07 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-26 22:04:07 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-26T22:04:07.010016",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 1976.820493935305,
+  "lstat_after": 4942.071373233709,
+  "rm_before": 0.6048393392589699,
+  "rm_after": 0.41494244228494015,
+  "rows": 506
+}
+2026-05-27 07:25:32 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 07:25:32 | INFO     | drift_injector | Before drift → LSTAT mean: 4942.0714 | RM mean: 0.4149
+2026-05-27 07:25:32 | INFO     | drift_injector | After drift  → LSTAT mean: 12355.1985 | RM mean: 0.2952
+2026-05-27 07:25:32 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 07:25:32 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T07:25:32.645095",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 4942.071373233708,
+  "lstat_after": 12355.198542284676,
+  "rm_before": 0.41494244228494015,
+  "rm_after": 0.2951666771651308,
+  "rows": 506
+}
+2026-05-27 07:32:31 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 07:32:31 | INFO     | drift_injector | Before drift → LSTAT mean: 12355.1985 | RM mean: 0.2952
+2026-05-27 07:32:31 | INFO     | drift_injector | After drift  → LSTAT mean: 30887.9839 | RM mean: 0.2135
+2026-05-27 07:32:31 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 07:32:31 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T07:32:31.730899",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 12355.198542284676,
+  "lstat_after": 30887.983922680905,
+  "rm_before": 0.2951666771651308,
+  "rm_after": 0.21347868056012373,
+  "rows": 506
+}
+2026-05-27 07:42:14 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 07:42:14 | INFO     | drift_injector | Before drift → LSTAT mean: 30887.9839 | RM mean: 0.2135
+2026-05-27 07:42:14 | INFO     | drift_injector | After drift  → LSTAT mean: 77219.9690 | RM mean: 0.1481
+2026-05-27 07:42:14 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 07:42:14 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T07:42:14.673508",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 30887.983922680905,
+  "lstat_after": 77219.9689807717,
+  "rm_before": 0.2134786805601237,
+  "rm_after": 0.14814398971931078,
+  "rows": 506
+}
+2026-05-27 07:51:12 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 07:51:12 | INFO     | drift_injector | Before drift → LSTAT mean: 77219.9690 | RM mean: 0.1481
+2026-05-27 07:51:12 | INFO     | drift_injector | After drift  → LSTAT mean: 193049.9093 | RM mean: 0.1072
+2026-05-27 07:51:12 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 07:51:12 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T07:51:12.862158",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 77219.9689807717,
+  "lstat_after": 193049.90929494845,
+  "rm_before": 0.14814398971931073,
+  "rm_after": 0.10718793572763137,
+  "rows": 506
+}
+2026-05-27 08:00:59 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 08:00:59 | INFO     | drift_injector | Before drift → LSTAT mean: 193049.9093 | RM mean: 0.1072
+2026-05-27 08:00:59 | INFO     | drift_injector | After drift  → LSTAT mean: 482624.7747 | RM mean: 0.0750
+2026-05-27 08:00:59 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 08:00:59 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T08:00:59.557214",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 193049.90929494845,
+  "lstat_after": 482624.7746683459,
+  "rm_before": 0.10718793572763134,
+  "rm_after": 0.07497375348991893,
+  "rows": 506
+}
+2026-05-27 08:12:49 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 08:12:49 | INFO     | drift_injector | Before drift → LSTAT mean: 482624.7747 | RM mean: 0.0750
+2026-05-27 08:12:49 | INFO     | drift_injector | After drift  → LSTAT mean: 1206561.9455 | RM mean: 0.0464
+2026-05-27 08:12:50 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 08:12:50 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T08:12:50.036580",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 482624.7746683459,
+  "lstat_after": 1206561.9454824307,
+  "rm_before": 0.07497375348991892,
+  "rm_after": 0.04639922170156889,
+  "rows": 506
+}
+2026-05-27 08:22:52 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 08:22:52 | INFO     | drift_injector | Before drift → LSTAT mean: 1206561.9455 | RM mean: 0.0464
+2026-05-27 08:22:52 | INFO     | drift_injector | After drift  → LSTAT mean: 3016404.8990 | RM mean: 0.0363
+2026-05-27 08:22:52 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 08:22:52 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T08:22:52.847306",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 1206561.9454824307,
+  "lstat_after": 3016404.8990082555,
+  "rm_before": 0.046399221701568884,
+  "rm_after": 0.0362760521716726,
+  "rows": 506
+}
+2026-05-27 08:33:21 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 08:33:21 | INFO     | drift_injector | Before drift → LSTAT mean: 3016404.8990 | RM mean: 0.0363
+2026-05-27 08:33:21 | INFO     | drift_injector | After drift  → LSTAT mean: 7541012.2420 | RM mean: 0.0270
+2026-05-27 08:33:21 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 08:33:21 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T08:33:21.666227",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 3016404.8990082555,
+  "lstat_after": 7541012.242016453,
+  "rm_before": 0.036276052171672596,
+  "rm_after": 0.026962589832028372,
+  "rows": 506
+}
+2026-05-27 08:49:11 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 08:49:11 | INFO     | drift_injector | Before drift → LSTAT mean: 7541012.2420 | RM mean: 0.0270
+2026-05-27 08:49:11 | INFO     | drift_injector | After drift  → LSTAT mean: 18852530.6108 | RM mean: 0.0112
+2026-05-27 08:49:11 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 08:49:11 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T08:49:11.644910",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 7541012.242016453,
+  "lstat_after": 18852530.61084218,
+  "rm_before": 0.02696258983202837,
+  "rm_after": 0.01121821152587336,
+  "rows": 506
+}
+2026-05-27 08:54:56 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 08:54:56 | INFO     | drift_injector | Before drift → LSTAT mean: 18852530.6108 | RM mean: 0.0112
+2026-05-27 08:54:56 | INFO     | drift_injector | After drift  → LSTAT mean: 47131326.5492 | RM mean: 0.0098
+2026-05-27 08:54:56 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 08:54:56 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T08:54:56.510811",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 18852530.61084218,
+  "lstat_after": 47131326.54922169,
+  "rm_before": 0.011218211525873358,
+  "rm_after": 0.00983563019948137,
+  "rows": 506
+}
+2026-05-27 09:00:50 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 09:00:50 | INFO     | drift_injector | Before drift → LSTAT mean: 47131326.5492 | RM mean: 0.0098
+2026-05-27 09:00:50 | INFO     | drift_injector | After drift  → LSTAT mean: 117828316.3927 | RM mean: 0.0069
+2026-05-27 09:00:50 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 09:00:50 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T09:00:50.145821",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 47131326.54922169,
+  "lstat_after": 117828316.3927017,
+  "rm_before": 0.009835630199481369,
+  "rm_after": 0.006907828337302501,
+  "rows": 506
+}
+2026-05-27 09:10:33 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 09:10:33 | INFO     | drift_injector | Before drift → LSTAT mean: 117828316.3927 | RM mean: 0.0069
+2026-05-27 09:10:33 | INFO     | drift_injector | After drift  → LSTAT mean: 294570790.9523 | RM mean: 0.0032
+2026-05-27 09:10:33 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 09:10:33 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T09:10:33.485783",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 117828316.3927017,
+  "lstat_after": 294570790.95233107,
+  "rm_before": 0.006907828337302499,
+  "rm_after": 0.0032054366029883293,
+  "rows": 506
+}
+2026-05-27 09:20:47 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 09:20:47 | INFO     | drift_injector | Before drift → LSTAT mean: 294570790.9523 | RM mean: 0.0032
+2026-05-27 09:20:47 | INFO     | drift_injector | After drift  → LSTAT mean: 736426977.3488 | RM mean: 0.0027
+2026-05-27 09:20:47 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 09:20:47 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T09:20:47.795635",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 294570790.95233107,
+  "lstat_after": 736426977.3488204,
+  "rm_before": 0.0032054366029883275,
+  "rm_after": 0.0027153898118202867,
+  "rows": 506
+}
+2026-05-27 09:32:09 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 09:32:09 | INFO     | drift_injector | Before drift → LSTAT mean: 736426977.3488 | RM mean: 0.0027
+2026-05-27 09:32:09 | INFO     | drift_injector | After drift  → LSTAT mean: 1841067443.4287 | RM mean: 0.0151
+2026-05-27 09:32:09 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 09:32:09 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T09:32:09.830937",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 736426977.3488204,
+  "lstat_after": 1841067443.4287124,
+  "rm_before": 0.0027153898118202828,
+  "rm_after": 0.015079480707660062,
+  "rows": 506
+}
+2026-05-27 09:41:00 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 09:41:00 | INFO     | drift_injector | Before drift → LSTAT mean: 1841067443.4287 | RM mean: 0.0151
+2026-05-27 09:41:00 | INFO     | drift_injector | After drift  → LSTAT mean: 4602668608.5833 | RM mean: 0.0084
+2026-05-27 09:41:00 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 09:41:00 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T09:41:00.744866",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 1841067443.4287124,
+  "lstat_after": 4602668608.583347,
+  "rm_before": 0.01507948070766006,
+  "rm_after": 0.008365677364834529,
+  "rows": 506
+}
+2026-05-27 09:50:30 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 09:50:30 | INFO     | drift_injector | Before drift → LSTAT mean: 4602668608.5833 | RM mean: 0.0084
+2026-05-27 09:50:30 | INFO     | drift_injector | After drift  → LSTAT mean: 11506671521.4594 | RM mean: 0.0155
+2026-05-27 09:50:30 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 09:50:30 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T09:50:30.392191",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 4602668608.583347,
+  "lstat_after": 11506671521.459444,
+  "rm_before": 0.008365677364834526,
+  "rm_after": 0.01547726480154399,
+  "rows": 506
+}
+2026-05-27 10:00:28 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 10:00:28 | INFO     | drift_injector | Before drift → LSTAT mean: 11506671521.4594 | RM mean: 0.0155
+2026-05-27 10:00:28 | INFO     | drift_injector | After drift  → LSTAT mean: 28766678803.6323 | RM mean: 0.0042
+2026-05-27 10:00:28 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 10:00:28 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T10:00:28.488306",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 11506671521.459444,
+  "lstat_after": 28766678803.6323,
+  "rm_before": 0.015477264801543981,
+  "rm_after": 0.004204630382372769,
+  "rows": 506
+}
+2026-05-27 10:10:34 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 10:10:34 | INFO     | drift_injector | Before drift → LSTAT mean: 28766678803.6323 | RM mean: 0.0042
+2026-05-27 10:10:34 | INFO     | drift_injector | After drift  → LSTAT mean: 71916697009.0580 | RM mean: -0.0070
+2026-05-27 10:10:34 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 10:10:34 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T10:10:34.420248",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 28766678803.6323,
+  "lstat_after": 71916697009.05795,
+  "rm_before": 0.004204630382372767,
+  "rm_after": -0.006999250449344341,
+  "rows": 506
+}
+2026-05-27 10:20:46 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 10:20:46 | INFO     | drift_injector | Before drift → LSTAT mean: 71916697009.0580 | RM mean: -0.0070
+2026-05-27 10:20:46 | INFO     | drift_injector | After drift  → LSTAT mean: 179791742522.6439 | RM mean: 0.0012
+2026-05-27 10:20:46 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 10:20:46 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T10:20:46.720980",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 71916697009.05795,
+  "lstat_after": 179791742522.64392,
+  "rm_before": -0.00699925044934434,
+  "rm_after": 0.001179766941419202,
+  "rows": 506
+}
+2026-05-27 14:53:54 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 14:53:54 | INFO     | drift_injector | Before drift → LSTAT mean: 179791742522.6439 | RM mean: 0.0012
+2026-05-27 14:53:54 | INFO     | drift_injector | After drift  → LSTAT mean: 449479356306.6257 | RM mean: -0.0065
+2026-05-27 14:53:54 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 14:53:54 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T14:53:54.197325",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 179791742522.6439,
+  "lstat_after": 449479356306.62573,
+  "rm_before": 0.0011797669414191996,
+  "rm_after": -0.006474434086202948,
+  "rows": 506
+}
+2026-05-27 15:05:30 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 15:05:30 | INFO     | drift_injector | Before drift → LSTAT mean: 449479356306.6257 | RM mean: -0.0065
+2026-05-27 15:05:30 | INFO     | drift_injector | After drift  → LSTAT mean: 1123698390766.5791 | RM mean: -0.0030
+2026-05-27 15:05:30 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 15:05:30 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T15:05:30.174401",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 449479356306.62573,
+  "lstat_after": 1123698390766.579,
+  "rm_before": -0.006474434086202946,
+  "rm_after": -0.002988838695296683,
+  "rows": 506
+}
+2026-05-27 15:11:42 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 15:11:42 | INFO     | drift_injector | Before drift → LSTAT mean: 1123698390766.5791 | RM mean: -0.0030
+2026-05-27 15:11:42 | INFO     | drift_injector | After drift  → LSTAT mean: 2809245976916.4546 | RM mean: -0.0044
+2026-05-27 15:11:42 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 15:11:42 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T15:11:42.904288",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 1123698390766.579,
+  "lstat_after": 2809245976916.4546,
+  "rm_before": -0.0029888386952966845,
+  "rm_after": -0.004367147174364078,
+  "rows": 506
+}
+2026-05-27 15:20:39 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 15:20:39 | INFO     | drift_injector | Before drift → LSTAT mean: 2809245976916.4546 | RM mean: -0.0044
+2026-05-27 15:20:39 | INFO     | drift_injector | After drift  → LSTAT mean: 7023114942291.1543 | RM mean: 0.0007
+2026-05-27 15:20:40 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 15:20:40 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T15:20:40.048304",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 2809245976916.4546,
+  "lstat_after": 7023114942291.154,
+  "rm_before": -0.0043671471743640805,
+  "rm_after": 0.0007124697685607227,
+  "rows": 506
+}
+2026-05-27 15:31:26 | INFO     | drift_injector | Loaded dataset: 506 rows
+2026-05-27 15:31:26 | INFO     | drift_injector | Before drift → LSTAT mean: 7023114942291.1543 | RM mean: 0.0007
+2026-05-27 15:31:26 | INFO     | drift_injector | After drift  → LSTAT mean: 17557787355727.9082 | RM mean: -0.0037
+2026-05-27 15:31:27 | INFO     | drift_injector | Drifted dataset saved to /mnt/d/boston_mlops/data/raw/boston.csv
+2026-05-27 15:31:27 | INFO     | drift_injector | Drift summary: {
+  "timestamp": "2026-05-27T15:31:27.023278",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 7023114942291.154,
+  "lstat_after": 17557787355727.908,
+  "rm_before": 0.0007124697685607218,
+  "rm_after": -0.003743801554306147,
+  "rows": 506
+}

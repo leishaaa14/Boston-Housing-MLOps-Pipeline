@@ -1,0 +1,13 @@
+venv/
+venv_airflow/
+venv_mlflow/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+mlflow.db
+*.save

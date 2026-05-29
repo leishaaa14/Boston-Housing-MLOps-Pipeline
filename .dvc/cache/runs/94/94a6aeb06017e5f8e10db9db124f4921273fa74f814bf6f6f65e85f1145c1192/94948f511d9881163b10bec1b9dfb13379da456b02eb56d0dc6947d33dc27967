@@ -1,0 +1,33 @@
+cmd: python src/train.py
+deps:
+- path: data/processed/X_train.csv
+  hash: md5
+  md5: d5303137d1182429dc2d2bda8467ebc4
+  size: 103321
+  isexec: true
+- path: data/processed/y_train.csv
+  hash: md5
+  md5: 5c840938e2fb16979ba2a03975278d16
+  size: 2009
+  isexec: true
+- path: src/train.py
+  hash: md5
+  md5: e43478a8fdfd9135d4c9b0d35535268b
+  size: 6466
+  isexec: true
+outs:
+- path: metrics/train_metrics.json
+  hash: md5
+  md5: 449eb7add7a7732e7bc3ca59aebe14ee
+  size: 374
+  isexec: true
+- path: models/linear_regression.pkl
+  hash: md5
+  md5: 5314bfc44fd353d034c062847c6955a0
+  size: 1141
+  isexec: true
+- path: models/random_forest.pkl
+  hash: md5
+  md5: 5321e361290c95905e3f8f475559b4af
+  size: 88689
+  isexec: true

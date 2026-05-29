@@ -1,0 +1,310 @@
+2026-05-24 11:17:53 | INFO     | evaluate     | Starting evaluation stage
+2026-05-24 11:17:53 | INFO     | evaluate     | linear_regression | RMSE: 4.8316 | R²: 0.6790 | MAE: 3.1575
+2026-05-24 11:17:53 | INFO     | evaluate     | random_forest | RMSE: 2.9904 | R²: 0.8770 | MAE: 2.0641
+2026-05-24 11:17:53 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-24 11:17:53 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.831644903778628,
+  "lr_r2": 0.6789659015742741,
+  "rf_rmse": 2.990402345093262,
+  "rf_r2": 0.8770239909450177
+}
+2026-05-24 14:02:06 | INFO     | evaluate     | Starting evaluation stage
+2026-05-24 14:02:06 | INFO     | evaluate     | linear_regression | RMSE: 4.7219 | R²: 0.6934 | MAE: 3.0423
+2026-05-24 14:02:08 | INFO     | evaluate     | random_forest | RMSE: 3.2283 | R²: 0.8567 | MAE: 2.2391
+2026-05-24 14:02:08 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-24 14:02:08 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.721893885824318,
+  "lr_r2": 0.6933848627975656,
+  "rf_rmse": 3.228295262020565,
+  "rf_r2": 0.8566797216393476
+}
+2026-05-24 14:12:08 | INFO     | evaluate     | Starting evaluation stage
+2026-05-24 14:12:09 | INFO     | evaluate     | linear_regression | RMSE: 4.7965 | R²: 0.6836 | MAE: 3.2256
+2026-05-24 14:12:10 | INFO     | evaluate     | random_forest | RMSE: 3.1473 | R²: 0.8638 | MAE: 2.1117
+2026-05-24 14:12:10 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-24 14:12:10 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.796470691619648,
+  "lr_r2": 0.6836231222849471,
+  "rf_rmse": 3.147347406552046,
+  "rf_r2": 0.8637769774913745
+}
+2026-05-24 14:21:24 | INFO     | evaluate     | Starting evaluation stage
+2026-05-24 14:21:24 | INFO     | evaluate     | linear_regression | RMSE: 5.0694 | R²: 0.6466 | MAE: 3.2340
+2026-05-24 14:21:25 | INFO     | evaluate     | random_forest | RMSE: 3.3503 | R²: 0.8456 | MAE: 2.2375
+2026-05-24 14:21:25 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-24 14:21:25 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 5.069380280009552,
+  "lr_r2": 0.6465964663140138,
+  "rf_rmse": 3.350305433993201,
+  "rf_r2": 0.8456417134625376
+}
+2026-05-24 14:29:26 | INFO     | evaluate     | Starting evaluation stage
+2026-05-24 14:29:27 | INFO     | evaluate     | linear_regression | RMSE: 4.8181 | R²: 0.6808 | MAE: 3.1767
+2026-05-24 14:29:28 | INFO     | evaluate     | random_forest | RMSE: 2.9448 | R²: 0.8807 | MAE: 2.0452
+2026-05-24 14:29:28 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-24 14:29:28 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.818147725226171,
+  "lr_r2": 0.6807570109996334,
+  "rf_rmse": 2.9448304322953147,
+  "rf_r2": 0.8807435902654885
+}
+2026-05-24 14:37:32 | INFO     | evaluate     | Starting evaluation stage
+2026-05-24 14:37:32 | INFO     | evaluate     | linear_regression | RMSE: 4.9072 | R²: 0.6689 | MAE: 3.2986
+2026-05-24 14:37:33 | INFO     | evaluate     | random_forest | RMSE: 3.3264 | R²: 0.8478 | MAE: 2.3375
+2026-05-24 14:37:33 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-24 14:37:33 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.907155366339769,
+  "lr_r2": 0.6688530476211381,
+  "rf_rmse": 3.3263644710021207,
+  "rf_r2": 0.84783989049602
+}
+2026-05-24 14:46:05 | INFO     | evaluate     | Starting evaluation stage
+2026-05-24 14:46:05 | INFO     | evaluate     | linear_regression | RMSE: 5.0306 | R²: 0.6520 | MAE: 3.3114
+2026-05-24 14:46:05 | INFO     | evaluate     | random_forest | RMSE: 3.2833 | R²: 0.8518 | MAE: 2.2979
+2026-05-24 14:46:05 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-24 14:46:05 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 5.030583181895061,
+  "lr_r2": 0.651985118979395,
+  "rf_rmse": 3.2832506909378685,
+  "rf_r2": 0.8517586934012406
+}
+2026-05-24 14:54:18 | INFO     | evaluate     | Starting evaluation stage
+2026-05-24 14:54:18 | INFO     | evaluate     | linear_regression | RMSE: 4.8540 | R²: 0.6760 | MAE: 3.1767
+2026-05-24 14:54:18 | INFO     | evaluate     | random_forest | RMSE: 3.1058 | R²: 0.8673 | MAE: 2.1501
+2026-05-24 14:54:18 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-24 14:54:18 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.85395596030146,
+  "lr_r2": 0.6759941818273718,
+  "rf_rmse": 3.1058080365622462,
+  "rf_r2": 0.8673490500801193
+}
+2026-05-24 15:02:27 | INFO     | evaluate     | Starting evaluation stage
+2026-05-24 15:02:28 | INFO     | evaluate     | linear_regression | RMSE: 4.7586 | R²: 0.6886 | MAE: 3.2412
+2026-05-24 15:02:28 | INFO     | evaluate     | random_forest | RMSE: 3.0609 | R²: 0.8712 | MAE: 2.0919
+2026-05-24 15:02:28 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-24 15:02:28 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.7585641510980095,
+  "lr_r2": 0.6886040194066787,
+  "rf_rmse": 3.0608664902634573,
+  "rf_r2": 0.8711602364256629
+}
+2026-05-24 15:10:37 | INFO     | evaluate     | Starting evaluation stage
+2026-05-24 15:10:37 | INFO     | evaluate     | linear_regression | RMSE: 4.9463 | R²: 0.6636 | MAE: 3.2592
+2026-05-24 15:10:38 | INFO     | evaluate     | random_forest | RMSE: 3.1605 | R²: 0.8626 | MAE: 2.1664
+2026-05-24 15:10:38 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-24 15:10:38 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.946265181318624,
+  "lr_r2": 0.6635535594639905,
+  "rf_rmse": 3.1604803786098596,
+  "rf_r2": 0.8626377669535192
+}
+2026-05-24 20:05:14 | INFO     | evaluate     | Starting evaluation stage
+2026-05-24 20:05:14 | INFO     | evaluate     | linear_regression | RMSE: 4.7881 | R²: 0.6847 | MAE: 3.1276
+2026-05-24 20:05:15 | INFO     | evaluate     | random_forest | RMSE: 3.3044 | R²: 0.8498 | MAE: 2.1694
+2026-05-24 20:05:15 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-24 20:05:15 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.788082553587275,
+  "lr_r2": 0.6847287237063218,
+  "rf_rmse": 3.304361874305637,
+  "rf_r2": 0.8498461919527347
+}
+2026-05-26 11:57:05 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 11:57:05 | INFO     | evaluate     | linear_regression | RMSE: 4.8316 | RÂ²: 0.6790 | MAE: 3.1575
+2026-05-26 11:57:06 | INFO     | evaluate     | random_forest | RMSE: 2.9904 | RÂ²: 0.8770 | MAE: 2.0641
+2026-05-26 11:57:06 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 11:57:06 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.8316449037786295,
+  "lr_r2": 0.6789659015742738,
+  "rf_rmse": 2.990402345093262,
+  "rf_r2": 0.8770239909450177
+}
+2026-05-26 14:10:58 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 14:10:59 | INFO     | evaluate     | linear_regression | RMSE: 4.7790 | RÂ²: 0.6859 | MAE: 3.2101
+2026-05-26 14:11:04 | INFO     | evaluate     | random_forest | RMSE: 3.0176 | RÂ²: 0.8748 | MAE: 2.1487
+2026-05-26 14:11:04 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 14:11:04 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.778956241802554,
+  "lr_r2": 0.6859294222454377,
+  "rf_rmse": 3.01764420019835,
+  "rf_r2": 0.874773220971707
+}
+2026-05-26 17:46:00 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 17:46:01 | INFO     | evaluate     | linear_regression | RMSE: 4.8316 | RÂ²: 0.6790 | MAE: 3.1575
+2026-05-26 17:46:01 | INFO     | evaluate     | random_forest | RMSE: 2.9904 | RÂ²: 0.8770 | MAE: 2.0641
+2026-05-26 17:46:01 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 17:46:01 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.8316449037786295,
+  "lr_r2": 0.6789659015742738,
+  "rf_rmse": 2.9904023450932624,
+  "rf_r2": 0.8770239909450177
+}
+2026-05-26 19:44:05 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 19:44:06 | INFO     | evaluate     | linear_regression | RMSE: 4.7576 | RÂ²: 0.6887 | MAE: 3.1741
+2026-05-26 19:44:07 | INFO     | evaluate     | random_forest | RMSE: 3.2939 | RÂ²: 0.8508 | MAE: 2.2074
+2026-05-26 19:44:07 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 19:44:07 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.757552627046516,
+  "lr_r2": 0.6887363917088722,
+  "rf_rmse": 3.293872767381084,
+  "rf_r2": 0.8507979518762256
+}
+2026-05-26 19:55:31 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 19:55:31 | INFO     | evaluate     | linear_regression | RMSE: 4.8316 | RÂ²: 0.6790 | MAE: 3.1575
+2026-05-26 19:55:32 | INFO     | evaluate     | random_forest | RMSE: 2.9904 | RÂ²: 0.8770 | MAE: 2.0641
+2026-05-26 19:55:32 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 19:55:32 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.8316449037786295,
+  "lr_r2": 0.6789659015742738,
+  "rf_rmse": 2.990402345093262,
+  "rf_r2": 0.8770239909450177
+}
+2026-05-26 20:16:15 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 20:16:15 | INFO     | evaluate     | linear_regression | RMSE: 4.8316 | RÂ²: 0.6790 | MAE: 3.1575
+2026-05-26 20:16:16 | INFO     | evaluate     | random_forest | RMSE: 2.9904 | RÂ²: 0.8770 | MAE: 2.0641
+2026-05-26 20:16:16 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 20:16:16 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.8316449037786295,
+  "lr_r2": 0.6789659015742738,
+  "rf_rmse": 2.990402345093262,
+  "rf_r2": 0.8770239909450177
+}
+2026-05-26 20:24:56 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 20:24:56 | INFO     | evaluate     | linear_regression | RMSE: 4.8316 | RÂ²: 0.6790 | MAE: 3.1575
+2026-05-26 20:24:57 | INFO     | evaluate     | random_forest | RMSE: 2.9904 | RÂ²: 0.8770 | MAE: 2.0641
+2026-05-26 20:24:57 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 20:24:57 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.8316449037786295,
+  "lr_r2": 0.6789659015742738,
+  "rf_rmse": 2.9904023450932624,
+  "rf_r2": 0.8770239909450177
+}
+2026-05-26 20:39:34 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 20:39:35 | INFO     | evaluate     | linear_regression | RMSE: 4.8316 | RÂ²: 0.6790 | MAE: 3.1575
+2026-05-26 20:39:36 | INFO     | evaluate     | random_forest | RMSE: 2.9904 | RÂ²: 0.8770 | MAE: 2.0641
+2026-05-26 20:39:36 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 20:39:36 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.8316449037786295,
+  "lr_r2": 0.6789659015742738,
+  "rf_rmse": 2.990402345093262,
+  "rf_r2": 0.8770239909450177
+}
+2026-05-26 20:55:05 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 20:55:06 | INFO     | evaluate     | linear_regression | RMSE: 4.8284 | RÂ²: 0.6794 | MAE: 3.2534
+2026-05-26 20:55:07 | INFO     | evaluate     | random_forest | RMSE: 3.3439 | RÂ²: 0.8462 | MAE: 2.3203
+2026-05-26 20:55:07 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 20:55:07 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.828421819335035,
+  "lr_r2": 0.6793940683413174,
+  "rf_rmse": 3.343923821936481,
+  "rf_r2": 0.8462291921644194
+}
+2026-05-26 21:30:23 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 21:30:24 | INFO     | evaluate     | linear_regression | RMSE: 4.6951 | RÂ²: 0.6969 | MAE: 3.2632
+2026-05-26 21:30:25 | INFO     | evaluate     | random_forest | RMSE: 3.4811 | RÂ²: 0.8334 | MAE: 2.3333
+2026-05-26 21:30:25 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 21:30:25 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.69509143226785,
+  "lr_r2": 0.6968558066708479,
+  "rf_rmse": 3.481139313363696,
+  "rf_r2": 0.8333505236773807
+}
+2026-05-26 21:45:07 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 21:45:09 | INFO     | evaluate     | linear_regression | RMSE: 4.6524 | RÂ²: 0.7023 | MAE: 3.2489
+2026-05-26 21:45:12 | INFO     | evaluate     | random_forest | RMSE: 3.4546 | RÂ²: 0.8359 | MAE: 2.5097
+2026-05-26 21:45:12 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 21:45:12 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.652374219624013,
+  "lr_r2": 0.7023468886827904,
+  "rf_rmse": 3.4545690906447954,
+  "rf_r2": 0.8358847603209837
+}
+2026-05-26 21:58:14 | INFO     | evaluate     | Starting evaluation stage
+2026-05-26 21:58:15 | INFO     | evaluate     | linear_regression | RMSE: 4.6739 | RÂ²: 0.6996 | MAE: 3.2841
+2026-05-26 21:58:16 | INFO     | evaluate     | random_forest | RMSE: 3.3587 | RÂ²: 0.8449 | MAE: 2.4741
+2026-05-26 21:58:16 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-26 21:58:16 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.673917558896446,
+  "lr_r2": 0.6995838741770284,
+  "rf_rmse": 3.358656352041949,
+  "rf_r2": 0.8448712524174025
+}
+2026-05-27 09:36:55 | INFO     | evaluate     | Starting evaluation stage
+2026-05-27 09:36:56 | INFO     | evaluate     | linear_regression | RMSE: 4.7130 | RÂ²: 0.6945 | MAE: 3.3657
+2026-05-27 09:36:56 | INFO     | evaluate     | random_forest | RMSE: 3.5397 | RÂ²: 0.8277 | MAE: 2.5663
+2026-05-27 09:36:56 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-27 09:36:56 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.712963814332993,
+  "lr_r2": 0.6945435105823272,
+  "rf_rmse": 3.5396635341682487,
+  "rf_r2": 0.8277000668187626
+}
+2026-05-27 09:44:35 | INFO     | evaluate     | Starting evaluation stage
+2026-05-27 09:44:35 | INFO     | evaluate     | linear_regression | RMSE: 4.7184 | RÂ²: 0.6938 | MAE: 3.3806
+2026-05-27 09:44:36 | INFO     | evaluate     | random_forest | RMSE: 3.4673 | RÂ²: 0.8347 | MAE: 2.5597
+2026-05-27 09:44:36 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-27 09:44:36 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.718352575793382,
+  "lr_r2": 0.6938445987076582,
+  "rf_rmse": 3.46731195724147,
+  "rf_r2": 0.83467178374614
+}
+2026-05-27 09:54:04 | INFO     | evaluate     | Starting evaluation stage
+2026-05-27 09:54:05 | INFO     | evaluate     | linear_regression | RMSE: 4.6822 | RÂ²: 0.6985 | MAE: 3.3311
+2026-05-27 09:54:05 | INFO     | evaluate     | random_forest | RMSE: 3.4451 | RÂ²: 0.8368 | MAE: 2.5412
+2026-05-27 09:54:05 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-27 09:54:05 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.682208647679364,
+  "lr_r2": 0.6985171091170537,
+  "rf_rmse": 3.4451479137950938,
+  "rf_r2": 0.8367786781104256
+}
+2026-05-27 10:04:02 | INFO     | evaluate     | Starting evaluation stage
+2026-05-27 10:04:02 | INFO     | evaluate     | linear_regression | RMSE: 4.6762 | RÂ²: 0.6993 | MAE: 3.3319
+2026-05-27 10:04:03 | INFO     | evaluate     | random_forest | RMSE: 3.4480 | RÂ²: 0.8365 | MAE: 2.5146
+2026-05-27 10:04:03 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-27 10:04:03 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.676192933122466,
+  "lr_r2": 0.6992913035496786,
+  "rf_rmse": 3.4480161947358563,
+  "rf_r2": 0.8365067829667576
+}
+2026-05-27 10:14:12 | INFO     | evaluate     | Starting evaluation stage
+2026-05-27 10:14:12 | INFO     | evaluate     | linear_regression | RMSE: 4.6772 | RÂ²: 0.6992 | MAE: 3.3260
+2026-05-27 10:14:13 | INFO     | evaluate     | random_forest | RMSE: 3.5884 | RÂ²: 0.8229 | MAE: 2.6144
+2026-05-27 10:14:13 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-27 10:14:13 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.677241047455907,
+  "lr_r2": 0.6991564877193265,
+  "rf_rmse": 3.588434009016344,
+  "rf_r2": 0.822919363823068
+}
+2026-05-27 14:58:36 | INFO     | evaluate     | Starting evaluation stage
+2026-05-27 14:58:37 | INFO     | evaluate     | linear_regression | RMSE: 4.6722 | RÂ²: 0.6998 | MAE: 3.3162
+2026-05-27 14:58:38 | INFO     | evaluate     | random_forest | RMSE: 3.4970 | RÂ²: 0.8318 | MAE: 2.5681
+2026-05-27 14:58:38 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-27 14:58:38 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.672151091069773,
+  "lr_r2": 0.6998109107612378,
+  "rf_rmse": 3.4970267937490838,
+  "rf_r2": 0.8318259181988554
+}
+2026-05-27 15:10:46 | INFO     | evaluate     | Starting evaluation stage
+2026-05-27 15:10:46 | INFO     | evaluate     | linear_regression | RMSE: 4.6678 | RÂ²: 0.7004 | MAE: 3.3180
+2026-05-27 15:10:47 | INFO     | evaluate     | random_forest | RMSE: 3.4713 | RÂ²: 0.8343 | MAE: 2.5607
+2026-05-27 15:10:47 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-27 15:10:47 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.667819648232786,
+  "lr_r2": 0.7003672494319368,
+  "rf_rmse": 3.4712810385564254,
+  "rf_r2": 0.8342930599834959
+}
+2026-05-27 15:20:04 | INFO     | evaluate     | Starting evaluation stage
+2026-05-27 15:20:05 | INFO     | evaluate     | linear_regression | RMSE: 4.6693 | RÂ²: 0.7002 | MAE: 3.3171
+2026-05-27 15:20:05 | INFO     | evaluate     | random_forest | RMSE: 3.5444 | RÂ²: 0.8272 | MAE: 2.5977
+2026-05-27 15:20:05 | INFO     | evaluate     | Evaluation complete. Metrics saved.
+2026-05-27 15:20:05 | INFO     | evaluate     | Final metrics: {
+  "lr_rmse": 4.66926097435043,
+  "lr_r2": 0.7001821800772163,
+  "rf_rmse": 3.544366586471338,
+  "rf_r2": 0.8272419024057291
+}

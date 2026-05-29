@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-05-27T15:31:27.023278",
+  "drift_type": "feature_scaling",
+  "lstat_scale": 2.5,
+  "rm_scale": 0.7,
+  "lstat_before": 7023114942291.154,
+  "lstat_after": 17557787355727.908,
+  "rm_before": 0.0007124697685607218,
+  "rm_after": -0.003743801554306147,
+  "rows": 506
+}

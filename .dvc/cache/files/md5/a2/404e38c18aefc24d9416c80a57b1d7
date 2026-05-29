@@ -1,0 +1,15 @@
+{
+  "linear_regression": {
+    "rmse": 4.8316449037786295,
+    "r2": 0.6789659015742738,
+    "mae": 3.1574602483400462,
+    "run_id": "a9aae7a2e5f34779af3bfa894d3f99d8"
+  },
+  "random_forest": {
+    "rmse": 2.9904023450932624,
+    "r2": 0.8770239909450177,
+    "mae": 2.064116323866224,
+    "run_id": "38b968f351b54f9e9def9e1c05e69f4e"
+  },
+  "best_model": "random_forest"
+}

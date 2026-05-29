@@ -1,0 +1,21 @@
+# monitoring/prometheus/prometheus.yml
+# Prometheus scrapes the metrics exporter every 15 seconds.
+# Grafana connects to Prometheus as a datasource.
+
+global:
+  scrape_interval:     15s   # pull metrics every 15 seconds
+  evaluation_interval: 15s
+
+scrape_configs:
+
+  # ── Boston Housing MLOps Metrics ─────────────────────────────
+  - job_name: "boston_mlops"
+    static_configs:
+      - targets: ["host.docker.internal:8000"]
+        # If running without Docker, use: ["localhost:8000"]
+    metrics_path: "/metrics"
+
+  # ── Prometheus self-monitoring ────────────────────────────────
+  - job_name: "prometheus"
+    static_configs:
+      - targets: ["localhost:9090"]

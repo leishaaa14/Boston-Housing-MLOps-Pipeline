@@ -1,0 +1,54 @@
+# dvc.yaml
+# Defines the full ML pipeline as DVC stages.
+# Run with: dvc repro
+# DVC automatically detects which stages need rerunning based on file changes.
+
+stages:
+
+  # ── Stage 1: Preprocess ──────────────────────────────────────
+  # Triggered when: data/raw/boston.csv changes (drift injected)
+  preprocess:
+    cmd: python src/preprocess.py
+    deps:
+      - data/raw/boston.csv          # input data (DVC tracked)
+      - src/preprocess.py            # preprocessing code
+    outs:
+      - data/processed/X_train.csv
+      - data/processed/X_test.csv
+      - data/processed/y_train.csv
+      - data/processed/y_test.csv
+      - models/scaler.pkl
+    metrics:
+      - metrics/dataset_stats.json:
+          cache: false               # don't cache metrics — always compare
+
+  # ── Stage 2: Train ───────────────────────────────────────────
+  # Triggered when: processed data or training code changes
+  train:
+    cmd: python src/train.py
+    deps:
+      - data/processed/X_train.csv
+      - data/processed/y_train.csv
+      - src/train.py
+    outs:
+      - models/linear_regression.pkl
+      - models/random_forest.pkl
+    metrics:
+      - metrics/train_metrics.json:
+          cache: false
+
+  # ── Stage 3: Evaluate ────────────────────────────────────────
+  # Triggered when: models or test data changes
+  evaluate:
+    cmd: python src/evaluate.py
+    deps:
+      - models/linear_regression.pkl
+      - models/random_forest.pkl
+      - data/processed/X_test.csv
+      - data/processed/y_test.csv
+      - src/evaluate.py
+    metrics:
+      - metrics/eval_metrics.json:
+          cache: false
+      - metrics/dvc_metrics.json:
+          cache: false
