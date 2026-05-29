@@ -146,69 +146,112 @@ After starting Docker (see daily startup below):
 
 ## Daily Startup
 
-Open **5 separate terminals** and run one section per terminal, in this exact order:
+Start services in the following order.
+
+### Terminal 1 — MLflow Server
+
+```bash
+cd /mnt/d/boston_mlops
+source venv_mlflow/bin/activate
+
+mlflow server \
+--backend-store-uri sqlite:///mlflow.db \
+--default-artifact-root ./mlruns \
+--host 0.0.0.0 \
+--port 5000
+```
+
+MLflow UI:
+http://localhost:5000
 
 ---
 
-### Terminal 1 — Docker (Prometheus + Grafana)
-
-Start this first so monitoring is ready before anything else runs.
+### Terminal 2 — Metrics Exporter
 
 ```bash
-cd Boston-Housing-MLOps-Pipeline
-docker-compose up -d
-```
+cd /mnt/d/boston_mlops
+source venv_mlflow/bin/activate
 
-Verify containers are running:
-
-```bash
-docker ps
-```
-
----
-
-### Terminal 2 — MLflow
-
-```bash
-cd Boston-Housing-MLOps-Pipeline
-source venv_mlflow/Scripts/activate
-mlflow ui --backend-store-uri sqlite:///mlflow.db --port 5000
-```
-
-### Terminal 3 — Metrics exporter
-
-Start this before Airflow so Prometheus has something to scrape when the pipeline runs.
-
-```bash
-cd Boston-Housing-MLOps-Pipeline
-source venv_airflow/Scripts/activate
 python monitoring/metrics_exporter.py
 ```
 
 ---
 
-### Terminal 4 — Airflow web server
+### Terminal 3 — Airflow
 
 ```bash
-cd Boston-Housing-MLOps-Pipeline
-source venv_airflow/Scripts/activate
-export AIRFLOW_HOME=$(pwd)/airflow
-airflow webserver --port 8080
+cd /mnt/d/boston_mlops
+source venv_airflow/bin/activate
+
+airflow standalone
 ```
+
+Airflow UI:
+http://localhost:8080
 
 ---
 
-### Terminal 5 — Airflow scheduler
+### Terminal 4 — Prometheus & Grafana
 
 ```bash
-cd Boston-Housing-MLOps-Pipeline
-source venv_airflow/Scripts/activate
-export AIRFLOW_HOME=$(pwd)/airflow
-airflow scheduler
+docker compose up -d
 ```
 
----
+Prometheus:
+http://localhost:9090
 
+Grafana:
+http://localhost:3000
+---
+## Daily Shutdown
+
+Stop Airflow:
+
+```bash
+pkill -f airflow
+```
+
+Stop MLflow:
+
+```bash
+pkill -f mlflow
+```
+
+Stop Metrics Exporter:
+
+```bash
+pkill -f metrics_exporter
+```
+
+Stop Docker Services:
+
+```bash
+docker stop $(docker ps -q)
+```
+
+## Check Pipeline Status
+
+List recent runs:
+
+```bash
+airflow dags list-runs -d boston_mlops_pipeline
+```
+
+Check all task states:
+
+```bash
+airflow tasks states-for-dag-run \
+boston_mlops_pipeline \
+<execution_date>
+```
+
+Example:
+
+```bash
+airflow tasks states-for-dag-run \
+boston_mlops_pipeline \
+2026-05-27T07:36:24.958805+00:00
+```
 ### All services at a glance
 
 | Order | Service | Terminal command | URL |
